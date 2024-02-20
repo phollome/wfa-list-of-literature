@@ -104,6 +104,12 @@ function TableRow(props: TableRowProps) {
           return (
             <td key={`${props.rowIndex}-${i}`} className="p-2">
               {props.reference.episodes
+                .filter((episode, index) => {
+                  const firstIndex = props.reference.episodes.findIndex(
+                    (item) => item.title === episode.title
+                  );
+                  return firstIndex === index;
+                })
                 .map((episode) => (
                   <Link
                     key={episode.title}
