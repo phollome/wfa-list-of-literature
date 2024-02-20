@@ -29,13 +29,11 @@ export function useDarkMode() {
       return;
     }
     if (isDarkMode) {
-      // @ts-ignore
       document.querySelector(Selector).classList.add(ClassName);
       window &&
         window.localStorage &&
         window.localStorage.setItem(LocalStorageItemKey, "true");
     } else {
-      // @ts-ignore
       document.querySelector(Selector).classList.remove(ClassName);
       window &&
         window.localStorage &&
