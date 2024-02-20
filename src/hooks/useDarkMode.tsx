@@ -25,19 +25,19 @@ export function useDarkMode() {
   }, []);
 
   React.useEffect(() => {
-    if (document === null) {
-      return;
-    }
-    if (isDarkMode) {
-      document.querySelector(Selector).classList.add(ClassName);
-      window &&
-        window.localStorage &&
-        window.localStorage.setItem(LocalStorageItemKey, "true");
-    } else {
-      document.querySelector(Selector).classList.remove(ClassName);
-      window &&
-        window.localStorage &&
-        window.localStorage.removeItem(LocalStorageItemKey);
+    const selectedElement = document.querySelector(Selector);
+    if (selectedElement !== null) {
+      if (isDarkMode) {
+        selectedElement.classList.add(ClassName);
+        window &&
+          window.localStorage &&
+          window.localStorage.setItem(LocalStorageItemKey, "true");
+      } else {
+        selectedElement.classList.remove(ClassName);
+        window &&
+          window.localStorage &&
+          window.localStorage.removeItem(LocalStorageItemKey);
+      }
     }
   }, [isDarkMode]);
 
