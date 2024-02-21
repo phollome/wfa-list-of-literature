@@ -1,4 +1,4 @@
-import { EnhancedReference } from "./app";
+import { EnhancedReference } from "./App";
 
 export interface Episode {
   title: string;
@@ -49,6 +49,6 @@ export function mergeReferences(
       });
     }
     return array;
-  }, []);
+  }, [] as MergedReference[]);
   return mergedReferences;
 }

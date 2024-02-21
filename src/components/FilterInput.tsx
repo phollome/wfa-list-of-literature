@@ -1,4 +1,4 @@
-import React from "react";
+import React, { type ChangeEventHandler } from "react";
 
 export interface FilterInputProps {
   children: React.ReactNode;
@@ -24,7 +24,7 @@ function FilterInput(props: FilterInputProps) {
     });
   }, []);
 
-  const onChange = (evt) => {
+  const onChange: ChangeEventHandler<HTMLInputElement> = (evt) => {
     setValue(evt.target.value);
   };
   React.isValidElement(props.children);

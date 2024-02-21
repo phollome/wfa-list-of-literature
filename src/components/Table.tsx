@@ -5,7 +5,7 @@ import { MergedReference } from "../utils";
 enum Sorting {
   Ascending,
   Descending,
-  Default = undefined,
+  Default = -1,
 }
 
 function nextSorting(sorting: Sorting): Sorting {
@@ -76,7 +76,7 @@ function Link(props: LinkProps) {
 }
 
 interface Column {
-  key: string;
+  key: keyof MergedReference;
   content: string;
 }
 
@@ -123,7 +123,7 @@ function TableRow(props: TableRowProps) {
                     index > 0 ? ", " : "",
                     current,
                   ],
-                  []
+                  [] as React.ReactNode[]
                 )}
             </td>
           );
@@ -155,18 +155,19 @@ export interface TableProps {
 
 export function Table(props: TableProps) {
   const { references, filterValue } = props;
-  const [selectedColumn, setSelectedColumn] = React.useState<string>();
-  const [sorting, setSorting] = React.useState<Sorting>();
+  const [selectedColumn, setSelectedColumn] =
+    React.useState<keyof MergedReference>();
+  const [sorting, setSorting] = React.useState<Sorting>(Sorting.Default);
   const [filteredReferences, setFilteredReferences] = React.useState<
     MergedReference[]
   >([]);
   const [sortedReferences, setSortedReferences] = React.useState<
     MergedReference[]
   >([]);
-  const fuse = React.useRef(null);
+  const fuse = React.useRef<Fuse<MergedReference> | null>(null);
 
   React.useEffect(() => {
-    if (references.length > 0) {
+    if (typeof references !== "undefined" && references.length > 0) {
       fuse.current = new Fuse(references, {
         keys: columns.map((column) => column.key),
         minMatchCharLength: 2,
@@ -175,23 +176,25 @@ export function Table(props: TableProps) {
   }, [references]);
 
   React.useEffect(() => {
-    if (
-      filterValue.length > 2 &&
-      fuse.current !== null &&
-      references.length > 0
-    ) {
-      const result = fuse.current.search(filterValue);
-      const items = result.map((element) => element.item);
-      setFilteredReferences([...items]);
-    } else if (filteredReferences.length !== references.length) {
-      setFilteredReferences([...references]);
+    if (typeof references !== "undefined") {
+      if (
+        filterValue.length > 2 &&
+        fuse.current !== null &&
+        references.length > 0
+      ) {
+        const result = fuse.current.search(filterValue);
+        const items = result.map((element) => element.item);
+        setFilteredReferences([...items]);
+      } else if (filteredReferences.length !== references.length) {
+        setFilteredReferences([...references]);
+      }
     }
   }, [filterValue, references]); // eslint-disable-line
 
   React.useEffect(() => {
     if (sorting === Sorting.Default) {
       setSortedReferences([...filteredReferences]);
-    } else {
+    } else if (typeof selectedColumn !== "undefined") {
       const sortedItems = [...filteredReferences].sort((a, b) => {
         const aContent =
           selectedColumn === "episodes"
@@ -201,7 +204,9 @@ export function Table(props: TableProps) {
           selectedColumn === "episodes"
             ? b[selectedColumn].map((item) => item.title).join(", ")
             : b[selectedColumn];
-
+        if (typeof aContent !== "string" || typeof bContent !== "string") {
+          return 0;
+        }
         switch (sorting) {
           case Sorting.Descending:
             return aContent.localeCompare(bContent);
@@ -215,11 +220,15 @@ export function Table(props: TableProps) {
     }
   }, [sorting, filteredReferences, selectedColumn]);
 
-  const handleColumnHeadClick = (event) => {
-    const { key } = columns.find(
-      (column) =>
-        (event.target as HTMLButtonElement).textContent.includes(column.content) // includes `${column.content} ⬆`/`${column.content} ⬇`
-    );
+  const handleColumnHeadClick: React.MouseEventHandler<Element> = (event) => {
+    const columnButton = event.target as HTMLButtonElement;
+    const { key } =
+      columns.find((column) => {
+        if (columnButton.textContent !== null) {
+          return columnButton.textContent.includes(column.content); // includes `${column.content} ⬆`/`${column.content} ⬇`
+        }
+        return false;
+      }) || {};
     if (key !== selectedColumn) {
       setSelectedColumn(key);
       setSorting(Sorting.Descending);
