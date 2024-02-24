@@ -3,6 +3,947 @@
   "link": "https://www.youtube.com/c/Wohlstandf%C3%BCrAlle/featured",
   "episodes": [
     {
+      "title": "Literatur #38: Ist MOMO antisemitisch?",
+      "href": "https://www.youtube.com/watch?v=JvXTf7_GSBM",
+      "pubDate": "2024-02-24T17:10:09Z",
+      "references": [
+        {
+          "author": "Michael Ende",
+          "title": "Momo. Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",
+          "publisher": "Thienemann Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 235: Klassenjustiz - sind vor dem Gesetz wirklich alle gleich?",
+      "href": "https://www.youtube.com/watch?v=KglriDOzKoY",
+      "pubDate": "2024-02-07T17:10:09Z",
+      "references": [
+        {
+          "author": "Volkmar Schöneburg",
+          "title": "\"Klassenjustiz\", in: Historisch-kritisches Wörterbuch des Marxismus",
+          "href": "https://www.inkrit.de/e_inkritpedia/e_maincode/doku.php?id=k%3Aklassenjustiz",
+          "publisher": "inkrit.de"
+        },
+        {
+          "author": "Ronen Steinke",
+          "title": "or dem Gesetz sind nicht alle gleich. Die neue Klassenjustiz",
+          "publisher": "Berlin Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #37: Obelix GmbH & Co. KG",
+      "href": "https://www.youtube.com/watch?v=mEmKBBp-1nk",
+      "pubDate": "2024-01-27T17:10:09Z",
+      "references": [
+        {
+          "author": "Christine Gundermann",
+          "title": "50 Jahre Widerstand: Das Phänomen Asterix",
+          "href": "https://zeithistorische-forschungen.de/1-2009/4506",
+          "publisher": "zeithistorische-forschungen.de"
+        },
+        {
+          "author": "Tacitus",
+          "title": "Annalen",
+          "publisher": "Reclam"
+        },
+        {
+          "author": "Albert Uderzo, René Goscinny",
+          "title": "Obelix GmbH & Co. KG.",
+          "publisher": "Egmont Comic Collection"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 233: Demokratiekritik von links? Johannes Agnolis Staatstheorie",
+      "href": "https://www.youtube.com/watch?v=eZlmcVS1ZxU",
+      "pubDate": "2024-01-24T17:10:09Z",
+      "references": [
+        {
+          "author": "Johannes Agnoli",
+          "title": "\"Die bürgerliche Gesellschaft und ihr Staat\", in: Das Argument (41) 1966,",
+          "href": "http://www.neu.inkrit.de/mediadaten/archivargument/DA041/DA041.pdf",
+          "publisher": "inkrit.de"
+        },
+        {
+          "author": "Johannes Agnoli",
+          "title": "Die Transformation der Demokratie und verwandte Schriften",
+          "publisher": "Konkret LIteratur Verlag"
+        },
+        {
+          "author": "Richard Heigl",
+          "title": "Das Unbehagen am Staat. Staatskritik bei Wolfgang Abendroth und Johannes Agnoli",
+          "href": "https://www.rosalux.de/fileadmin/rls_uploads/pdfs/Standpunkte/Standpunkte_25-2010_web.pdf",
+          "publisher": "rosalux.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 232: Das Grunderbe - ein kleines Streitgespräch!",
+      "href": "https://www.youtube.com/watch?v=ordCy7yCLGU",
+      "pubDate": "2024-01-17T17:10:09Z",
+      "references": [
+        {
+          "author": "Stefan Bach",
+          "title": "Grunderbe und Vermögensteuern können die Vermögensungleichheit verringern",
+          "href": "https://www.diw.de/documents/publikationen/73/diw_01.c.831668.de/21-50.pdf",
+          "publisher": "diw.de"
+        },
+        {
+          "author": "Nikolaos Gavalakis",
+          "title": "Gegen Ungleichheit: Starökonom Piketty fordert 120.000 Euro Erbschaft für alle",
+          "href": "https://vorwaerts.de/international/gegen-ungleichheit-starokonom-piketty-fordert-120000-euro-erbschaft-fur-alle",
+          "publisher": "vorwaerts.de"
+        },
+        {
+          "author": "Lukas Scholle",
+          "title": "Das Grunderbe löst nicht das Grundproblem",
+          "href": "https://jacobin.de/artikel/grunderbe-ungleichheit-klassenverhaeltnis",
+          "publisher": "jacobin.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 231: Wie sozial ist das Grundgesetz?",
+      "href": "https://www.youtube.com/watch?v=FE6U-vGoFSo",
+      "pubDate": "2024-01-10T17:10:09Z",
+      "references": [
+        {
+          "author": "Wolfgang Abendroth",
+          "title": "\"Zum Begriff des demokratischen und sozialen Rechtsstaates im Grundgesetz der Bundesrepublik Deutschland\", in: Ders.: Gesammelte Schriften, Bd. 2, 1949 - 1955",
+          "publisher": "Offizin Verlag"
+        },
+        {
+          "author": "Frank Deppe",
+          "title": "Politisches Denken im 20. Jahrhundert. Bd. 3.2",
+          "publisher": "VSA Verlag"
+        },
+        {
+          "author": "SPD",
+          "title": "Godesberger Programm",
+          "href": "https://www.spd.de/fileadmin/Dokumente/Beschluesse/Grundsatzprogramme/godesberger_programm.pdf",
+          "publisher": "spd.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 230: Der wahre Bürgergeld-Skandal!",
+      "href": "https://www.youtube.com/watch?v=6xORf90v04M",
+      "pubDate": "2024-01-03T17:10:09Z",
+      "references": [
+        {
+          "author": "David Gutensohn",
+          "title": "Der Minister schafft seine eigene Reform ab",
+          "href": "https://www.zeit.de/arbeit/2023-12/buergergeld-hubertus-heil-arbeitsminister-job-verweigerer-hartz-iv",
+          "publisher": "zeit.de"
+        },
+        {
+          "author": "Maurice Höfgen",
+          "title": "Kindergrundsicherung wackelt: Der große Flop der Lisa Paus",
+          "href": "https://www.geldfuerdiewelt.de/p/kindergrundsicherung-wackelt-lisa-paus-cdu-rat",
+          "publisher": "geldfuerdiewelt.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 229: Die Pendlerpauschale - besser als ihr Ruf!",
+      "href": "https://www.youtube.com/watch?v=yiZs_7BBLm4",
+      "pubDate": "2023-12-27T17:10:09Z",
+      "references": [
+        {
+          "author": "Stefan Bach",
+          "title": "Pendlerpauschale kürzen statt erhöhen",
+          "href": "https://www.diw.de/documents/publikationen/73/diw_01.c.398668.de/12-18-3.pdf",
+          "publisher": "diw.de"
+        },
+        {
+          "author": "Stefan Bach, Jutta Kloas, Hartmut Kuhfeld",
+          "title": "Wem nützt die Entfernungspauschale?",
+          "href": "https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/izr/2007/Downloads/2_3BachKloasKuhfeld.pdf?__blob=publicationFile&v=2",
+          "publisher": "bbsr.bund.de"
+        },
+        {
+          "author": "Hans-Werner Sinn",
+          "title": "Hände weg von der Entfernungs-Pauschale",
+          "href": "https://www.hanswernersinn.de/de/medienecho_202152_ifostimme-SZ25-09-03",
+          "publisher": "hanswerneersinn.de"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #36: ATLAS SHRUGGED - Ayn Rands Vermächtnis",
+      "href": "https://www.youtube.com/watch?v=zTgP7_cXH1c",
+      "pubDate": "2023-12-23T17:10:09Z",
+      "references": [
+        {
+          "author": "Ayn Rand",
+          "title": "Der freie Mensch",
+          "publisher": "Thinkum"
+        },
+        {
+          "author": "Jennifer Burns",
+          "title": "Goddess of the Market. Ayn Rand and the American Right",
+          "publisher": "Oxford University Press"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 228: 100 Jahre Hyperinflation - die Lehren aus 1923",
+      "href": "https://www.youtube.com/watch?v=lNZNPnIWBMM",
+      "pubDate": "2023-12-20T17:10:09Z",
+      "references": [
+        {
+          "author": "Sebastian Teupe",
+          "title": "Zeit des Geldes Die deutsche Inflation zwischen 1914 und 1923",
+          "publisher": "Campus"
+        },
+        {
+          "author": "Adam Tooze",
+          "title": "Sintflut. Die Neuordnung der Welt 1916-1931",
+          "publisher": "Siedler Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 227: Gibt es im Sozialismus Geld? Die Arbeitszeitrechnung",
+      "href": "https://www.youtube.com/watch?v=MP0ONd0p5RE",
+      "pubDate": "2023-12-13T17:10:09Z",
+      "references": [
+        {
+          "author": "Guenther Sandleben",
+          "title": "Gesellschaft nach dem Geld. Arbeitszeitrechnung als Alternative",
+          "publisher": "PapyRossa"
+        },
+        {
+          "author": "Gruppe Internationaler Kommunisten",
+          "title": "Grundprinzipien kommunistischer Produktion und Verteilung",
+          "publisher": "Red & Black Books"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 225: Der vollautomatische Luxus-Kommunismus (und das Elend der linken Theorie)",
+      "href": "https://www.youtube.com/watch?v=Oou1-yi2Jcs",
+      "pubDate": "2023-11-29T17:10:09Z",
+      "references": [
+        {
+          "author": "Aaron Bastani",
+          "title": "Fully Automated Luxury Communism. A Manifesto",
+          "publisher": "Verso"
+        },
+        {
+          "author": "Leigh Phillips, Michal Rozworski",
+          "title": "People's Republic of Walmart. How the World's Biggest Corporations are Laying the Foundation for Socialism",
+          "publisher": "Verso"
+        }
+      ]
+    },
+    {
+      "title": "Teaser: Wieso wird so wenig Bertolt Brecht gespielt?",
+      "href": "https://www.youtube.com/watch?v=4FEo5pJtArg",
+      "pubDate": "2023-11-25T17:10:09Z",
+      "references": [
+        {
+          "author": "Bertolt Brecht",
+          "title": "Herr Puntila und sein Knecht Matti",
+          "publisher": "Suhrkamp"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 224: Ende der Ampel-Koalition? Was das BVerfG-Urteil bedeutet",
+      "href": "https://www.youtube.com/watch?v=JqtbNDL9eu4",
+      "pubDate": "2023-11-22T17:10:09Z",
+      "references": [
+        {
+          "author": "Bundesverfassungsgericht",
+          "title": "Zweites Nachtragshaushaltsgesetz 2021 ist nichtig",
+          "href": "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2023/bvg23-101.html",
+          "publisher": "bundesverfassungsgericht.de"
+        },
+        {
+          "author": "Lars P. Feld",
+          "title": "Wie die Finanzpolitik nun aussehen kann",
+          "href": "https://www.faz.net/aktuell/wirtschaft/wie-finanzpolitik-nach-dem-verfassungsurteil-aussehen-kann-19326970.html",
+          "publisher": "faz.net"
+        },
+        {
+          "author": "David Schwarz",
+          "title": "Die Repolitisierung des Politischen",
+          "href": "https://verfassungsblog.de/die-repolitisierung-des-politischen/",
+          "publisher": "verfassungsblog.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 223: Ist David Döbele der neue Dagobert Duck?",
+      "href": "https://www.youtube.com/watch?v=uKCQr05QubY",
+      "pubDate": "2023-11-15T17:10:09Z",
+      "references": [
+        {
+          "author": "David Döbele",
+          "title": "Nach ganz oben: Von der Uni in die Chef-Etage - die Erfolgsgeheimnisse der Wirtschaftselite",
+          "publisher": "Finanzbuch Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 222: Der Homo Oeconomicus - pure Ideologie?",
+      "href": "https://www.youtube.com/watch?v=P8T_FTNamb8",
+      "pubDate": "2023-11-08T17:10:09Z",
+      "references": [
+        {
+          "author": "Joseph Persky",
+          "title": "Retrospectives: The Ethology of Homo Economicus",
+          "href": "https://www.jstor.org/stable/2138175",
+          "publisher": "jstor.org"
+        },
+        {
+          "author": "Irene C. L. Ng, Lu-Ming Tseng",
+          "title": "Learning to Be Sociable The Evolution of Homo Economicus",
+          "href": "https://www.jstor.org/stable/27739704",
+          "publisher": "jstor.org"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 221: Sollte man die Börse abschaffen?",
+      "href": "https://www.youtube.com/watch?v=Nh-ty_1vx3k",
+      "pubDate": "2023-11-01T17:10:09Z",
+      "references": [
+        {
+          "author": "Michael Krätke",
+          "title": "\"Aktiengesellschaft\", in: Historisch-kritisches Wörterbuch des Marxismus, Band 1",
+          "href": "https://www.inkrit.de/e_inkritpedia/e_maincode/doku.php?id=a:aktiengesellschaft",
+          "publisher": "Argument Verlag"
+        },
+        {
+          "author": "Karl Marx",
+          "title": "Das Kapital. Kritik der politischen Ökonomie",
+          "publisher": "Karl Dietz Verlag Berlin"
+        },
+        {
+          "author": "Johannes Seuferle",
+          "title": "Die Geschichte der Vermögensanlage",
+          "publisher": "Westend Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Teaser: Lea Ypi über Freiheit in der Diktatur",
+      "href": "https://www.youtube.com/watch?v=6W5d5pep0W0",
+      "pubDate": "2023-10-28T17:10:09Z",
+      "references": [
+        {
+          "author": "Lea Ypi",
+          "title": " Frei. Erwachsenwerden am Ende der Geschichte",
+          "publisher": "Suhrkamp"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 220: Sind Handelskriege Klassenkämpfe?",
+      "href": "https://www.youtube.com/watch?v=sQgMmwwtCBg",
+      "pubDate": "2023-10-25T17:10:09Z",
+      "references": [
+        {
+          "author": "Matthew C. Klein, Michael Petti",
+          "title": "Trade Wars Are Class Wars. How Rising Inequality Distorts the Global Economy and Threatens International Peace",
+          "publisher": "Yale University Press"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 219: Die FDP hat recht! Der Industriestrompreis",
+      "href": "https://www.youtube.com/watch?v=hD069uAasQ0",
+      "pubDate": "2023-10-18T17:10:09Z",
+      "references": [
+        {
+          "author": "Luisa Neubauer, Veronika Grimm",
+          "title": "Streit um Industriestrom und Klimageld",
+          "href": "https://www.tagesspiegel.de/meinung/streit-um-industriestrom-und-klimageld-die-politik-hort-zu-sehr-auf-die-lobby-der-bewahrer-10494448.html",
+          "publisher": "tagesspiegel.de"
+        },
+        {
+          "author": "Isabella M. Weber",
+          "title": "Deutschland muss jetzt neu durchstarten",
+          "href": "https://www.zeit.de/wirtschaft/2023-09/industriestrompreis-investitionsagenda-wirtschaftspolitik?utm_referrer",
+          "publisher": "zeit.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 218: Der Aufstieg des Javier Milei - wieso Argentinien einen Anarchokapitalisten wählt",
+      "href": "https://www.youtube.com/watch?v=an3jgSu5mXQ",
+      "pubDate": "2023-10-11T17:10:09Z",
+      "references": [
+        {
+          "author": "Javier Milei",
+          "title": "El Camino del Libertario",
+          "publisher": "Planeta Argentina"
+        },
+        {
+          "author": "Jazmin Sierra",
+          "title": "\"The Politics of Growth Model Switching: Why Latin America Tries, and Fails, to Abandon Commodity-Driven Growth\", in: Diminishing Returns. The New Politics of Growth and Stagnation",
+          "publisher": "Oxford University Press"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 217: Von Trump zu den Bidenomics und zur Ampel-Koaltion",
+      "href": "https://www.youtube.com/watch?v=3GGlZphaVpQ",
+      "pubDate": "2023-10-04T17:10:09Z",
+      "references": [
+        {
+          "author": "Grey Anderson",
+          "title": "Strategies of Denial",
+          "href": "https://newleftreview.org/sidecar/posts/strategies-of-denial",
+          "publisher": "newleftreview.org"
+        },
+        {
+          "author": "Dylan Riley, Robert Brenner",
+          "title": "Seven Theses on American Politics",
+          "href": "https://newleftreview.org/issues/ii138/articles/dylan-riley-robert-brenner-seven-theses-on-american-politics",
+          "publisher": "newleftreview.org"
+        },
+        {
+          "author": "Lola Seaton",
+          "title": "Reflections On 'Political Capitalism'",
+          "href": "https://newleftreview.org/issues/ii142/articles/lola-seaton-reflections-on-political-capitalism",
+          "publisher": "newleftreview.org"
+        },
+        {
+          "author": "Adam Tooze",
+          "title": "Chartbook 221 The IRA (& the Fed) debate - bringing hegemony back in.",
+          "href": "https://adamtooze.com/2023/06/17/chartbook-221-the-ira-the-fed-debate-bringing-hegemony-back-in/",
+          "publisher": "adamtooze.com"
+        },
+        {
+          "author": "Rewert Hoffer",
+          "title": "«Diese Globalisierung ist zu Ende gegangen»: Robert Habeck stimmt Deutschland auf ein neues Wirtschaftsmodell ein",
+          "href": "https://www.nzz.ch/wirtschaft/robert-habeck-stimmt-deutschland-auf-ein-neues-wirtschaftsmodell-ein-ld.1756854",
+          "publisher": "nzz.ch"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 216: Die Weisheiten des Investmentpunk",
+      "href": "https://www.youtube.com/watch?v=KBaIPFTjEjo",
+      "pubDate": "2023-09-27T17:10:09Z",
+      "references": [
+        {
+          "author": "Gerald Hörhan",
+          "title": "Der Einzimmer-Millionär: Wie du gar nicht verhindern kannst reich zu werden",
+          "publisher": "Finanzbuch Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 215: Wer hat Angst vorm Plattenbau?",
+      "href": "https://www.youtube.com/watch?v=EWmXuqnhpXg",
+      "pubDate": "2023-09-20T17:10:09Z",
+      "references": [
+        {
+          "author": "Robert Liebscher",
+          "title": "Wohnen für alle. Eine Kulturgeschichte des Plattenbaus",
+          "publisher": "Vergangenheitsverlag"
+        },
+        {
+          "author": "Philipp Meuser (Hrsg.)",
+          "title": "Vom seriellen Plattenbau zur komplexen Großsiedlung. Industrieller Wohnungsbau in der DDR 1953-1990. Band 1",
+          "publisher": "DOM publishers"
+        },
+        {
+          "author": "Simone Schmollack",
+          "title": "Comeback der Platte",
+          "href": "https://taz.de/Wohnungsbau-in-Deutschland/!5823896/",
+          "publisher": "taz.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 214: Kohei Saito und der Degrowth-Kommunismus",
+      "href": "https://www.youtube.com/watch?v=NxvIUFsL7O0",
+      "pubDate": "2023-09-13T17:10:09Z",
+      "references": [
+        {
+          "author": "Kohei Saito",
+          "title": "Systemsturz. Der Sieg der Natur über den Kapitalismus",
+          "publisher": "dtv"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 213: Mit Jeff Bezos in den Sozialismus? Die digitale Planwirtschaft",
+      "href": "https://www.youtube.com/watch?v=VEJvpkQWCDo",
+      "pubDate": "2023-09-06T17:10:09Z",
+      "references": [
+        {
+          "author": "Amy Klobuchar",
+          "title": "Antitrust: Taking on Monopoly Power from the Gilded Age to the Digital Age",
+          "publisher": "Knopf"
+        },
+        {
+          "author": "Oskar Lange",
+          "title": "The Computer and The Market",
+          "href": "https://calculemus.org/lect/L-I-MNS/12/ekon-i-modele/lange-comp-market.htm",
+          "publisher": "calculemus.org"
+        },
+        {
+          "author": "Alec MacGilles",
+          "title": "Ausgeliefert: Amerika im Griff von Amazon",
+          "publisher": "S. Fischer"
+        },
+        {
+          "author": "Evgeny Morozov",
+          "title": "Digital Socialism? The Calculation Debate in the Age of Big Data",
+          "href": "https://newleftreview.org/issues/ii116/articles/evgeny-morozov-digital-socialism",
+          "publisher": "newleftreview.org"
+        },
+        {
+          "author": "Shoshana Zuboff",
+          "title": "Das Zeitalter des Überwachungskapitalismus",
+          "publisher": "Campus"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 212: Helfen Genossenschaften gegen die Wohnungskrise?",
+      "href": "https://www.youtube.com/watch?v=4tHJiFU_eZs",
+      "pubDate": "2023-08-30T17:10:09Z",
+      "references": [
+        {
+          "author": "Theresia Theurl",
+          "title": "Genossenschaften und Wohneigentum",
+          "href": "https://www.bpb.de/shop/zeitschriften/apuz/316460/genossenschaften-und-wohneigentum/",
+          "publisher": "bpb.de"
+        },
+        {
+          "author": "Daniel Arnold, Nico B. Rottke, Ralph Winter (Hrsg.)",
+          "title": "Wohnimmobilien. Lebenszyklus, Strategie, Transaktion",
+          "publisher": "Springer Gabler"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #32: Ein Streitgespräch! Elfriede Jelineks \"rein GOLD\"",
+      "href": "https://www.youtube.com/watch?v=2E0CY7lfU4U",
+      "pubDate": "2023-08-26T17:10:09Z",
+      "references": [
+        {
+          "author": "Elfriede Jelinek",
+          "title": "rein GOLD",
+          "publisher": "rowolth"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 211: Dümmer als Bitcoin! Die Worldcoin-Ideologie",
+      "href": "https://www.youtube.com/watch?v=DsaZheQqtRk",
+      "pubDate": "2023-08-23T17:10:09Z",
+      "references": [
+        {
+          "author": "Eileen Guo, Adi Renaldi",
+          "title": "Worldcoin: Tausche Kryptowährung gegen Augen-Scan",
+          "href": "https://www.heise.de/hintergrund/Worldcoin-Tausche-Kryptowaehrung-gegen-Augen-Scan-7097714.html?seite=all",
+          "publisher": "heise.de"
+        },
+        {
+          "author": "Sam Altman",
+          "title": "Moore's Law for Everything",
+          "href": "https://moores.samaltman.com/",
+          "publisher": "samaltman.com"
+        },
+        {
+          "author": "Worldcoin",
+          "title": "A New Identity and Financial Network",
+          "href": "https://whitepaper.worldcoin.org",
+          "publisher": "worldcoin.org"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 210: Der Machtkampf um Niger und der Neo-Kolonialismus",
+      "href": "https://www.youtube.com/watch?v=aBo8BP5uIE0",
+      "pubDate": "2023-08-16T17:10:09Z",
+      "references": [
+        {
+          "author": "Rosa-Luxemburg-Stiftung et al",
+          "title": "Der Uran-Atlas 2022",
+          "href": "https://www.rosalux.de/fileadmin/images/Ausland/Afrika/Uranatlas_2022_2.pdf",
+          "publisher": "rosalux.de"
+        },
+        {
+          "author": "Jens Borchers",
+          "title": "Droht ein neuer regionaler Krieg?",
+          "href": "https://www.tagesschau.de/ausland/afrika/niger-158.html",
+          "publisher": "tagesschau.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 209: Wieso Marx von Gleichheit und Gerechtigkeit wenig hielt",
+      "href": "https://www.youtube.com/watch?v=-j59phNpVL8",
+      "pubDate": "2023-08-09T17:10:09Z",
+      "references": [
+        {
+          "author": "Karl Marx",
+          "title": "Kritik am Gothaer Programm",
+          "href": "http://www.mlwerke.de/me/me19/me19_013.htm",
+          "publisher": "mlwerke.de"
+        },
+        {
+          "author": "Karl Marx",
+          "title": "Grundrisse zur Kritik der politischen Ökonomie",
+          "href": "https://marxwirklichstudieren.files.wordpress.com/2012/11/mew_band42.pdf",
+          "publisher": "marxwirklichstudieren.files.wordpress.com"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 208: Diese Barbie streikt! Arbeitskampf in Hollywood",
+      "href": "https://www.youtube.com/watch?v=hFemH-ZKjNY",
+      "pubDate": "2023-08-02T17:10:09Z",
+      "references": [
+        {
+          "author": "Lesley Goldberg",
+          "title": "Mandy Moore Says She Once Got a Check for a Penny for 'This Is Us' Streaming Residuals",
+          "href": "https://www.hollywoodreporter.com/tv/tv-news/mandy-moore-residuals-sag-aftra-strike-1235538930/",
+          "publisher": "hollywoodreporter.com"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 207: Das Ehegattensplitting - Entlastung der Mitte oder Fessel der Frau?",
+      "href": "https://www.youtube.com/watch?v=im5OZBLgq7o",
+      "pubDate": "2023-07-26T17:10:09Z",
+      "references": [
+        {
+          "author": "Jasper Ruppert",
+          "title": "Streit um Ehegattensplitting: \"Sommerlochdebatte\" oder mehr?",
+          "href": "https://www.br.de/nachrichten/deutschland-welt/streit-um-ehegattensplitting-sommerlochdebatte-oder-mehr,TjhHDpp",
+          "publisher": "br.de"
+        },
+        {
+          "author": "Daniel Gräfe",
+          "title": "Unsere Steuern. Wer zahlt? Wie viel? Wofür?",
+          "publisher": "Westend Verlag"
+        },
+        {
+          "author": "Stefan Bach",
+          "title": "Wer zahlt am meisten Steuern in Europa?",
+          "href": "https://www.stuttgarter-zeitung.de/inhalt.einkommenssteuer-vergleich-wer-zahlt-am-meisten-steuern-in-europa.5fa47782-24a4-4ff5-a93d-130060abb858.html",
+          "publisher": "stuttgarter-zeitung.de"
+        },
+        {
+          "author": "Gerhard Schick",
+          "title": "Erbschaftsteuer: Wie von Oligarchen bestellt",
+          "href": "https://www.blaetter.de/ausgabe/2021/dezember/erbschaftsteuer-wie-von-oligarchen-bestellt",
+          "publisher": "blaetter.de"
+        },
+        {
+          "author": "Maria Wersig",
+          "title": "Der lange Schatten der Hausfrauenehe. Zur Reformresistenz des Ehegattensplittings",
+          "publisher": "Verlag Barbara Budrich"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #31: Der Leopard - Giuseppe Tomasi di Lampedusa",
+      "href": "https://www.youtube.com/watch?v=e1FyNJy8e_0",
+      "pubDate": "2023-07-22T17:10:09Z",
+      "references": [
+        {
+          "author": "Giuseppe Tomasi di Lampedusa",
+          "title": "Der Leopard",
+          "publisher": "Piper"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 206: Der Kommerz macht den Fußball kaputt! Na und?",
+      "href": "https://www.youtube.com/watch?v=0gCUD252fJE",
+      "pubDate": "2023-07-19T17:10:09Z",
+      "references": [
+        {
+          "author": "Joseph Blatter",
+          "title": "Greed is threatening the beautiful game",
+          "href": "https://www.ft.com/content/7110585c-3a81-11da-b0d3-00000e2511c8",
+          "publisher": "ft.com"
+        },
+        {
+          "author": "Stefan Gmünder, Klaus Zeyringer",
+          "title": "Das wunde Leder. Wie Kommerz und Korruption den Fußball kaputt machen",
+          "publisher": "Suhrkamp"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 205: Mindestlohn-Skandal und Elterngeld-Irrsinn",
+      "href": "https://www.youtube.com/watch?v=0gCUD252fJE",
+      "pubDate": "2023-07-12T17:10:09Z",
+      "references": [
+        {
+          "author": "Gegenstandpunkt",
+          "title": "Der allgemein verbindliche Mindestlohn ",
+          "href": "https://de.gegenstandpunkt.com/artikel/allgemein-verbindliche-mindestlohn",
+          "publisher": "de.gegenstandpunkt.com"
+        },
+        {
+          "author": "Europäisches Parlament und Rat der Europäischen Union",
+          "title": "Richtlinie über angemessene Mindestlöhne in der Europäischen Union",
+          "href": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32022L2041",
+          "publisher": "eur-lex.europa.eu"
+        },
+        {
+          "author": "Karl Marx",
+          "title": "Lohnarbeit und Kapital",
+          "href": "http://www.mlwerke.de/me/me06/me06_397.htm",
+          "publisher": "mlwerke.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 204: McDonald's - Mythos eines Franchise-Wunders",
+      "href": "https://www.youtube.com/watch?v=aFVgMT9OwP4",
+      "pubDate": "2023-07-05T17:10:09Z",
+      "references": [
+        {
+          "author": "Claus Hecking",
+          "title": "Ray Kroc - der Burgermeister",
+          "href": "https://www.capital.de/wirtschaft-politik/history-crime/wie-ray-kroc-aus-einer-imbissbude-den-weltkonzern-mcdonald-s-formte-9480250.html",
+          "publisher": "capital.de"
+        },
+        {
+          "author": "Ray Kroc, Robert Anderson",
+          "title": "Die wahre Geschichte von McDonald's: Erzählt von Gründer Ray Kroc",
+          "publisher": "Finanzbuch Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 203: Das Ende des Dollars?",
+      "href": "https://www.youtube.com/watch?v=bMYyvgJLoGk",
+      "pubDate": "2023-06-28T17:10:09Z",
+      "references": [
+        {
+          "author": "Sakthi Prasad",
+          "title": "David McDowell im Interview: \"De-dollarization: U.S. Sanctions and Geopolitics Challenge Dollar's Dominance\"",
+          "href": "https://www.beroeinc.com/blog/interview-de-dollarization-us-sanctions-ceopolitics-challenge-dollars-dominance/",
+          "publisher": "beroeinc.com"
+        },
+        {
+          "author": "Jens Münchrath, Astrid Dörner",
+          "title": "US-Ökonom Roubini: \"Die Entkopplung findet längst statt\"",
+          "href": "https://www.handelsblatt.com/finanzen/geldpolitik/interview-us-oekonom-roubini-die-entkopplung-findet-laengst-statt/29143234.html",
+          "publisher": "handelsblatt.com"
+        },
+        {
+          "author": "Adam Tooze",
+          "title": "Chartbook #211 Bucking the buck? Debating the global dollar … again!",
+          "href": "https://adamtooze.com/2023/04/28/chartbook-211-bucking-the-buck-debating-the-global-dollar-again/",
+          "publisher": "adamtooze.com"
+        },
+        {
+          "author": "Zongyuan Zoe Liu, Mihaela Papa",
+          "title": "Can BRICS De-dollarize the Global Financial System?",
+          "publisher": "Cambridge University Press"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #30: Antisemitischer Schund! Oliver Twist (Charles Dickens)",
+      "href": "https://www.youtube.com/watch?v=YKwNG-5YIyE",
+      "pubDate": "2023-06-24T17:10:09Z",
+      "references": [
+        {
+          "author": "Charles Dickens",
+          "title": "Oliver Twist",
+          "publisher": "Insel Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 202: Der Fachkräftemangel - ein Mythos?",
+      "href": "https://www.youtube.com/watch?v=85QrVXd9X8Q",
+      "pubDate": "2023-06-21T17:10:09Z",
+      "references": [
+        {
+          "author": "Anika Jansen, Paula Risius",
+          "title": "Sorgenkind Gastro? Berufswechsel in der Corona-Pandemie",
+          "href": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2022/IW-Kurzbericht_2022-Sorgenkind_Gastro.pdf",
+          "publisher": "iwkoeln.de"
+        },
+        {
+          "author": "Wolfgang Fritz Haug",
+          "title": "faux frais",
+          "href": "https://www.inkrit.de/e_inkritpedia/e_maincode/doku.php?id=f%3Afaux_frais",
+          "publisher": "inkrit.de"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 201: Gewinnt China den Chipkrieg?",
+      "href": "https://www.youtube.com/watch?v=5JJX5G9vNdU",
+      "pubDate": "2023-06-14T17:10:09Z",
+      "references": [
+        {
+          "author": "Julia Hess",
+          "title": "Halbstark bei den Halbleitern",
+          "href": "https://www.ipg-journal.de/rubriken/wirtschaft-und-oekologie/artikel/halbstark-bei-den-halbleitern-6510/",
+          "publisher": "ipg-journal.de"
+        },
+        {
+          "author": "Chris Miller",
+          "title": "Chip War. The Fight for the World's Most Critical Technology",
+          "publisher": "Simon & Schuster"
+        },
+        {
+          "author": "Helen Toner, Jenny Xiao, Jeffrey Ding",
+          "title": "The Illusion of China's AI Prowess",
+          "href": "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation-helen-toner",
+          "publisher": "foreignaffairs.com"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 200: Arno Dübel hatte recht!",
+      "href": "https://www.youtube.com/watch?v=-3dXEYBLMew",
+      "pubDate": "2023-06-07T17:10:09Z",
+      "references": [
+        {
+          "author": "Christian Baron, Britta Steinwachs",
+          "title": "Faul, frech, dreist: die Diskriminierung von Erwerbslosigkeit durch BILD-LeserInnen",
+          "publisher": "Edition Assemblage"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 199: Wieso Lohn für Hausarbeit eine schlechte Idee ist",
+      "href": "https://www.youtube.com/watch?v=z4XDnwEu9wA",
+      "pubDate": "2023-05-31T17:10:09Z",
+      "references": [
+        {
+          "author": "Pieke Biermann, Gisela Bock",
+          "title": "\"Lohn für Hausarbeit vom Staat für alle Frauen\", in: Courage. Berliner Frauenzeitung (3/1977)",
+          "href": "http://library.fes.de/cgi-bin/courage.pl?id=07.00120&dok=197703&f=197703_016&l=197703_021&c=197703_016",
+          "publisher": "fes.de"
+        },
+        {
+          "author": "Silvia Federici",
+          "title": "Das Lohnpatriarchat. Texte zu Marxismus & Gender",
+          "publisher": "Mandelbaum Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 198: Der Krieg um die Chip-Produktion",
+      "href": "https://www.youtube.com/watch?v=Khhaj7mNMmM",
+      "pubDate": "2023-05-24T17:10:09Z",
+      "references": [
+        {
+          "author": "Chris Miller",
+          "title": "Chip War. The Fight for the World's Most Critical Technology",
+          "publisher": "Simon & Schuster"
+        },
+        {
+          "author": "Evgeny Morozov",
+          "title": "Kalte Krieger im Silicon Valley",
+          "href": "https://monde-diplomatique.de/artikel/!5915538",
+          "publisher": "monde-diplomatique.de"
+        },
+        {
+          "author": "Eric Schmidt, Yll Bajraktari",
+          "title": "America Could Lose the Tech Contest With China",
+          "href": "https://www.foreignaffairs.com/united-states/america-losing-its-tech-contest-china",
+          "publisher": "foreignaffairs.com"
+        },
+        {
+          "author": "Adam Tooze",
+          "title": "Washington isn't listening to business on China any more",
+          "href": "https://www.ft.com/content/5e38eec5-8caa-41d1-b4fd-b0ac5e8ca58a",
+          "publisher": "ft.com"
+        },
+        {
+          "author": "Bundesregierung",
+          "title": "Erklärung der Staats- und Regierungschefinnen und -chefs der G7 zu wirtschaftlicher Widerstandsfähigkeit und wirtschaftlicher Sicherheit",
+          "href": "https://www.bundesregierung.de/resource/blob/975228/2191658/102968a368c39f46d5a3a7d6c0c171ee/2023-05-20-g7-economic-resilience-deu-data.pdf",
+          "publisher": "bundesregierung.de"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #29: Ankunft im Alltag (Brigitte Reimann)",
+      "href": "https://www.youtube.com/watch?v=zzwyj25qeE0",
+      "pubDate": "2023-05-20T17:10:09Z",
+      "references": [
+        {
+          "author": "Brigitte Reimann",
+          "title": "Ankunft im Alltag",
+          "publisher": "Aufbau Verlag"
+        },
+        {
+          "author": "Brigitte Reimann",
+          "title": "Ich bedaure nichts. Mein Weg zur Schriftstellerin",
+          "publisher": "Aufbau Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 197: Marx und die Holzdiebe",
+      "href": "https://www.youtube.com/watch?v=6f8RJyoJbgc",
+      "pubDate": "2023-05-17T17:10:09Z",
+      "references": [
+        {
+          "author": "Daniel Bensaïd",
+          "title": "Die Enteigneten: Karl Marx, die Holzdiebe und das Recht der Armen",
+          "publisher": "Laika Theorie"
+        },
+        {
+          "author": "Karl Marx",
+          "title": "Debatten über das Holzdiebstahlsgesetz",
+          "href": "http://www.mlwerke.de/me/me01/me01_109.htm",
+          "publisher": "mlwerke.de"
+        },
+        {
+          "author": "Gregor Ritschel",
+          "title": "Jeremy Bentham und Karl Marx: Zwei Perspektiven der Demokratie",
+          "publisher": "Transcript"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 196: Alice Schwarzer und der Lohn für Hausarbeit",
+      "href": "https://www.youtube.com/watch?v=L2bVyYbg810",
+      "pubDate": "2023-05-10T17:10:09Z",
+      "references": [
+        {
+          "author": "Pieke Biermann, Gisela Bock",
+          "title": "\"Lohn für Hausarbeit vom Staat für alle Frauen\", in: Courage. Berliner Frauenzeitung (3/1977)",
+          "href": "https://library.fes.de/cgi-bin/courage.pl?id=07.00120&dok=197703&f=197703_016&l=197703_021&c=197703_016",
+          "publisher": "fes.de"
+        },
+        {
+          "author": "Gruppe \"Lohn für Hausarbeit\" Berlin",
+          "title": "\"Offener Brief an Alice\", in: Courage. Berliner Frauenzeitung (8/1977)",
+          "href": "http://library.fes.de/cgi-bin/courage.pl?id=07.00213&dok=197708&f=197708_038&l=197708_040&c=197708_040",
+          "publisher": "fes.de"
+        },
+        {
+          "author": "Alice Schwarzer",
+          "title": "\"Hausfrauenlohn?\", in: Emma (5/1977)",
+          "href": "https://www.emma.de/lesesaal/45136#pages/3",
+          "publisher": "emma.de"
+        },
+        {
+          "author": "Louise Toupin",
+          "title": "Lohn für Hausarbeit. Chronik eines internationalen Frauenkampfs (1972-1977)",
+          "publisher": "Unrast Verlag"
+        }
+      ]
+    },
+    {
       "title": "Ep. 194: Kommt die Kinderarbeit im Westen zurück?",
       "href": "https://www.youtube.com/watch?v=zdvy8WcSdt4",
       "pubDate": "2023-04-26T17:10:09Z",
@@ -2149,7 +3090,7 @@
         {
           "author": "Jan Rehmann",
           "title": "Max Weber. Modernisierung als passive Revolution",
-          "publisher": "Argument"
+          "publisher": "Argument Verlag"
         },
         {
           "author": "Heinz Steinert",
