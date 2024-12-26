@@ -3,6 +3,439 @@
   "link": "https://www.youtube.com/c/Wohlstandf%C3%BCrAlle/featured",
   "episodes": [
     {
+      "title": "Literatur #43: Ein wenig Leben (Hanya Yanagihara)",
+      "href": "https://wohlstandfueralle.podigee.io/2043-literatur-43-ein-wenig-leben",
+      "pubDate": "2024-07-27T07:00:00.000Z",
+      "references": [
+        {
+          "title": "Populärer Realismus. Vom International Style gegenwärtigen Erzählens",
+          "author": "Moritz Baßler",
+          "publisher": "C.H. Beck"
+        },
+        {
+          "title": "Ein wenig Leben",
+          "author": "Hanya Yanagihara",
+          "publisher": "Hanser"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 260: Wie Arbeitsmigranten zu Menschen zweiter Klasse werden",
+      "href": "https://wohlstandfueralle.podigee.io/260-arbeitsmigration",
+      "pubDate": "2024-07-31T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Ganz unten im System. Wie uns Arbeitsmigrant*innen den Wohlstand sichern",
+          "author": "Sascha Lübbe",
+          "publisher": "Hirzel"
+        },
+        {
+          "title": "Ausbeutung von Wanderarbeitern in Deutschland",
+          "author": "Ludger Fittkau",
+          "publisher": "deutschlandfunk.de",
+          "href": "https://www.deutschlandfunk.de/ausbeutung-wanderarbeiter-migration-arbeit-osteuropa-100.html"
+        },
+        {
+          "title": "Arbeitsmigranten: So werden sie in Deutschland ausgebeutet",
+          "author": "Nele Spandick",
+          "publisher": "stern.de",
+          "href": "https://www.stern.de/wirtschaft/arbeitsmigranten--so-werden-sie-in-deutschland-ausgebeutet-34892006.html?utm_campaign=stern_fanpage&utm_medium=posting&utm_source=linkedin&t.co="
+        },
+        {
+          "title": "Dreckiges Geschäft",
+          "author": " Christian Schweppe, Esmee Lam, Fannie Axelsson, Wiktoria Gruca, Laure-Anne Marxuach, Guokai Sun",
+          "publisher": "zeit.de",
+          "href": "https://www.zeit.de/arbeit/2024-07/reinigungskraefte-europaparlament-arbeitsbedingungen-bezahlung-stress"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 261: Vom Lumpenproletariat zu den Bitcoin-Bros",
+      "href": "https://wohlstandfueralle.podigee.io/261-lumpenproletariat",
+      "pubDate": "2024-08-07T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Lumpenproletariat",
+          "author": "Peter Bescherer",
+          "publisher": "HKWM",
+          "href": "http://example.com/lumpenproletariat"
+        },
+        {
+          "title": "Die Lage der arbeitenden Klasse in England",
+          "author": "Friedrich Engels",
+          "publisher": "MEW 2"
+        },
+        {
+          "title": "Der achtzehnte Brumaire des Louis Bonaparte",
+          "author": "Karl Marx",
+          "publisher": "MEW 8"
+        },
+        {
+          "title": "Die Juniniederlage 1848",
+          "author": "Karl Marx",
+          "publisher": "MEW 7"
+        },
+        {
+          "title": "Marx' Analyse der Klassenbasis von Louis Bonaparte. Ein Faktencheck in Martin Beck, Ingo Stützle (Hrsg.): Die neuen Bonapartisten. Mit Marx den Aufstieg von Trump & Co. verstehen",
+          "author": "Dorothea Schmidt",
+          "publisher": "Dietz Verlag",
+          "href": "https://dietzberlin.de/wp-content/uploads/2021/01/Die_neuen_Bonapartisten.pdf"
+        },
+        {
+          "title": "'Proletarier' und 'Lumpen'. Sozialistische Ursprünge eugenischen Denkens",
+          "author": "Michael Schwarz",
+          "publisher": "Vierteljahrshefte für Zeitgeschichte",
+          "href": "https://www.ifz-muenchen.de/heftarchiv/1994_4_2_schwartz.pdf"
+        },
+        {
+          "title": "Lumpenproletariat. Die Unterklassen zwischen Diffamierung und revolutionärer Handlungsmacht",
+          "author": "Christopher Wimmer",
+          "publisher": "Schmetterling Verlag"
+        },
+        {
+          "title": "Protokoll der 57. Sitzung des 16. Deutschen Bundestages",
+          "author": "Deutscher Bundestag",
+          "publisher": "Deutscher Bundestag",
+          "href": "https://dip.bundestag.de/plenarprotokoll/protokoll-der-57-sitzung-des-16-deutschen-bundestages/56?term=lumpenproletariat&rows=25&pos=3&ctx=d"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 263: Der Arbeitskräftemangel - und wie er behoben werden kann",
+      "href": "https://wohlstandfueralle.podigee.io/263-arbeitskraeftemangel",
+      "pubDate": "2024-08-21T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Wo Arbeitskräfte fehlen, können Lohnerhöhungen helfen",
+          "author": "Clemens Fuest, Simon Jäger",
+          "publisher": "faz.net",
+          "href": "https://www.faz.net/aktuell/karriere-hochschule/buero-co/gegen-den-fachkraeftemangel-mehr-lohn-als-mittel-18721012.html"
+        },
+        {
+          "title": "IAB Stellenerhebung - Aktuelle Ergebnisse",
+          "author": "Institut für Arbeitsmarkt- und Berufsforschung",
+          "publisher": "iab.de",
+          "href": "https://iab.de/das-iab/befragungen/iab-stellenerhebung/aktuelle-ergebnisse/"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 262: Bitcoin, Trump und die \"Libertären\"",
+      "href": "https://wohlstandfueralle.podigee.io/262-bitcoin-libertaer",
+      "pubDate": "2024-08-14T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Forbes über Milei und den Bitcoin",
+          "author": "Susie Violet Ward",
+          "publisher": "Forbes",
+          "href": "https://www.forbes.com/sites/digital-assets/2024/06/02/milei-is-not-moving-argentina-towards-bitcoin/"
+        },
+        {
+          "title": "Neue Regeln zur Rückverfolgung von Kryptowertetransfers in der EU",
+          "author": "Europäisches Parlament",
+          "publisher": "Europäisches Parlament",
+          "href": "https://www.europarl.europa.eu/news/de/press-room/20230414IPR80133/neue-regeln-zur-ruckverfolgung-von-kryptowertetransfers-in-der-eu"
+        },
+        {
+          "title": "Harris triggers crypto tug-of-war between Democrats",
+          "author": "Jasper Goodman and Eleanor Mueller",
+          "publisher": "Politico",
+          "href": "https://www.politico.com/news/2024/08/01/democrats-kamala-harris-crypto-policy-fight-00172103"
+        },
+        {
+          "title": "How Crypto Money Is Poised to Influence the Election",
+          "author": "David Yaffe-BellanyErin Griffith, Theodore Schleifer",
+          "publisher": "New York Times",
+          "href": "https://www.nytimes.com/2024/06/17/technology/-crypto-influence-election.html"
+        },
+        {
+          "title": "Die orange Pille. Warum Bitcoin weit mehr als nur ein neues Geld ist",
+          "author": "Ijoma Mangold",
+          "publisher": "dtv"
+        },
+        {
+          "title": "Donald Trump Bitcoin 2024 Keynote Speech",
+          "author": "Pangambam S",
+          "publisher": "Singju Post",
+          "href": "https://singjupost.com/donald-trump-bitcoin-2024-keynote-speech-full-transcript/?singlepage=1"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #44: Hillbilly-Elegie - wie J. D. Vance wirklich denkt!",
+      "href": "https://wohlstandfueralle.podigee.io/2044-j-d-vance-hillbilly-elegie",
+      "pubDate": "2024-08-24T07:00:00.000Z",
+      "references": [
+        {
+          "title": "Hillbilly-Elegie: Die Geschichte meiner Familie und einer Gesellschaft in der Krise",
+          "author": "J. D. Vance",
+          "publisher": "YES"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 257: Beggar thy neighbour - wie Frieden und Klimaschutz sabotiert werden",
+      "href": "https://wohlstandfueralle.podigee.io/257-beggar-thy-neighbour",
+      "pubDate": "2024-07-10T04:00:00.000Z",
+      "references": [
+        {
+          "title": "The Genesis of the GATT",
+          "author": "Douglas A. Irwin, Petros C. Mavroidis, Alan O. Sykes",
+          "publisher": "cambridge.org",
+          "href": "https://www.cambridge.org/core/books/genesis-of-the-gatt/796EE0ABCE00A2F8DD46812AFD9DD0CC"
+        },
+        {
+          "title": "China's problem is excess savings, not too much capacity",
+          "author": "Michael Pettis",
+          "publisher": "ft.com",
+          "href": "https://www.ft.com/content/879f5de7-cd9b-4987-9c2b-8b23cf0f3800"
+        },
+        {
+          "title": "Beggar-My-Neighbour. Remedies for Unemployment",
+          "author": "Joan Robinson",
+          "publisher": "Oxford"
+        },
+        {
+          "title": "Der Wohlstand der Nationen. Kapitel 3",
+          "author": "Adam Smith",
+          "publisher": "marxists.org",
+          "href": "https://www.marxists.org/reference/archive/smith-adam/works/wealth-of-nations/book04/ch03b.htm"
+        },
+        {
+          "title": "Warum Elektroautos in China so viel günstiger sind als in Europa",
+          "author": "Denis Wilmann",
+          "publisher": "businessinsider.de",
+          "href": "https://www.businessinsider.de/wirtschaft/warum-elektroautos-in-china-so-viel-guenstiger-sind-als-in-europa/"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #42: John Strelecky - Das Café am Rande der Welt",
+      "href": "https://wohlstandfueralle.podigee.io/2042-das-cafe-am-rande-der-welt",
+      "pubDate": "2024-06-28T10:00:00.000Z",
+      "references": [
+        {
+          "title": "Das Café am Rande der Welt",
+          "author": "John Strelecky",
+          "publisher": "dtv"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 258: Frankreichs Reiche zittern - was will Mélenchon?",
+      "href": "https://wohlstandfueralle.podigee.io/258-melenchon",
+      "pubDate": "2024-07-17T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Programm des Front Populaire",
+          "author": "Nouveau Front Populaire",
+          "publisher": "lafranceinsoumise.fr",
+          "href": "https://lafranceinsoumise.fr/wp-content/uploads/2024/06/PROGRAMME-FRONT-POPULAIRE.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 259: Die KIs und der Kampf ums Urheberrecht",
+      "href": "https://wohlstandfueralle.podigee.io/259-ki-wem-gehoeren-daten",
+      "pubDate": "2024-07-24T04:00:00.000Z",
+      "references": [
+        {
+          "title": "More Authors Sue AI Developers Over Copyright",
+          "author": "Andrew Albanese",
+          "publisher": "publishersweekly.com",
+          "href": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93170-more-authors-sue-ai-developers-over-copyright.html"
+        },
+        {
+          "title": "Illegales Futter - Darf Künstliche Intelligenz mit geschützten Daten lernen?",
+          "author": "Lutz Riede, Matthias Hofer ",
+          "publisher": "derstandard.at",
+          "href": "https://www.derstandard.de/story/2000143254280/illegales-futter-darf-kuenstliche-intelligenz-mit-geschuetzten-daten-lernen"
+        },
+        {
+          "title": "OpenAI's Content Deal with the FT Is an Attempt to Avoid More Legal Challenges and an AI Data Apocalypse",
+          "author": "Mike Cook",
+          "publisher": "theconversation.com",
+          "href": "https://theconversation.com/openais-content-deal-with-the-ft-is-an-attempt-to-avoid-more-legal-challenges-and-an-ai-data-apocalypse-229215"
+        },
+        {
+          "title": "New York Times Co. Fights OpenAI's Request for Reporters' Source Materials in Copyright Dispute",
+          "author": "Todd Bishop",
+          "publisher": "geekwire.com",
+          "href": "https://www.geekwire.com/2024/new-york-times-co-fights-openais-request-for-reporters-source-materials-in-copyright-dispute/"
+        },
+        {
+          "title": "VW und Mercedes fallen im Innovationsranking zurück",
+          "author": "Lazar Backovic",
+          "publisher": "Handelsblatt",
+          "href": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/elektroauto-vw-und-mercedes-fallen-im-innovationsranking-zurueck/100031412.html"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 252: So zwingt der IWF arme Länder in Austerität!",
+      "href": "https://wohlstandfueralle.podigee.io/252-iwf-auseritaet",
+      "pubDate": "2024-06-05T04:00:00.000Z",
+      "references": [
+        {
+          "title": "The Long, Slow Death of Global Development",
+          "author": "David Oks, Henry Williams",
+          "publisher": "americanaffairsjournal.org",
+          "href": "https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/"
+        },
+        {
+          "title": "A Thousand Cuts. Social Protection in the Age of Austerity",
+          "author": "Alexandros Kentikelenis, Thomas Stubbs",
+          "publisher": "Oxford University Press"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 254: Sparpolitik und Nationalismus - woher kommt der Rechtsruck?",
+      "href": "https://wohlstandfueralle.podigee.io/254-austeritaet-rechtsruck",
+      "pubDate": "2024-06-19T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Macht Sparen rechts? Und warum?",
+          "author": "Stephan Kaufmann",
+          "publisher": "politischeoekonomie.com",
+          "href": "https://politischeoekonomie.com/macht-sparen-rechts-und-warum/"
+        },
+        {
+          "title": "Rechtsruck? Hört auf zu heulen!",
+          "author": "Jean-Philippe Kindler",
+          "publisher": "steadyhq.com",
+          "href": "https://steadyhq.com/de/studio-rot/posts/5c0850e4-8e48-425d-bff6-72b9583dc291"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 253: Ist der Markt ein Gefängnis?",
+      "href": "https://wohlstandfueralle.podigee.io/253-markt-als-gefaengnis",
+      "pubDate": "2024-06-12T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Are We All Amazon Primed? Consumers and the Politics of Platform Power",
+          "author": "Pepper D. Culpepper, Kathleen Thelen",
+          "publisher": "pure.mpg.de",
+          "href": "https://pure.mpg.de/rest/items/item_3070468_4/component/file_3289366/content"
+        },
+        {
+          "title": "Structural power and political science in the post-crisis era",
+          "author": "Pepper D. Culpepper",
+          "publisher": "cambridge.org",
+          "href": "https://www.cambridge.org/core/journals/business-and-politics/article/abs/structural-power-and-political-science-in-the-postcrisis-era/69EE7F712E7A09C811224B688AA0ADB8"
+        },
+        {
+          "title": "Business Power and Social Policy: Employers and the Formation of the American Welfare State",
+          "author": "Jacob S. Hacker, Paul Pierson",
+          "publisher": "fes.de",
+          "href": "https://library.fes.de/libalt/journals/swetsfulltext/14403774.pdf"
+        },
+        {
+          "title": "The Market as Prison",
+          "author": "Charles E. Lindblom",
+          "publisher": "jstor.org",
+          "href": "https://www.jstor.org/stable/2130588"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 251: Unternehmer gegen die AfD?",
+      "href": "https://wohlstandfueralle.podigee.io/251-unternehmer-gegen-die-afd",
+      "pubDate": "2024-05-29T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Innere Zeitenwende: AfD braucht keine Nazis, der liberale Deutsche hilft schon genug",
+          "author": "Ingar Solty",
+          "publisher": "Berliner Zeitung",
+          "href": "https://www.berliner-zeitung.de/politik-gesellschaft/innere-zeitenwende-afd-braucht-keine-nazis-der-liberale-deutsche-hilft-schon-genug-li.2214494"
+        },
+        {
+          "title": "Große Medienhäuser starten Kampagne #Zusammenland",
+          "author": "Redaktion Börsenblatt",
+          "publisher": "Boersenblatt",
+          "href": "https://www.boersenblatt.net/home/grosse-medienhaeuser-starten-kampagne-zusammenland-320089"
+        },
+        {
+          "title": "Textbeitrag in Bezug auf die AfD",
+          "author": "Reinhold Würth",
+          "publisher": "Dpaq",
+          "href": "https://docs.dpaq.de/19781-reinhold_w_rth_-_textbeitrag_in_bezug_auf_die_afd.pdf"
+        },
+        {
+          "title": "Warum sich viele Unternehmer in Deutschland gegen die AfD wenden",
+          "author": "Sven Astheimer, Stephan Finsterbusch",
+          "publisher": "FAZ",
+          "href": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-sich-viele-unternehmer-in-deutschland-gegen-die-afd-wenden-19493056.html"
+        },
+        {
+          "title": "Elite-Panel Umfrage: Merz bei Kanzlerfrage knapp hinter Scholz",
+          "author": "Timo Pache",
+          "publisher": "Capital",
+          "href": "https://www.capital.de/wirtschaft-politik/elite-panel-umfrage--merz-bei-kanzler-frage-knapp-hinter-scholz-34371320.html"
+        },
+        {
+          "title": "Ausländer und ihr Anteil an der Gesamtbevölkerung. 1871-1933",
+          "author": "Leibniz-Institut für Länderkunde",
+          "publisher": "Nationalatlas",
+          "href": "https://archiv.nationalatlas.de/?p=1825"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #41: OMA COURAGE? Wieso die FDP zu doof für Brecht ist",
+      "href": "https://wohlstandfueralle.podigee.io/2041-literatur-41-oma-courage",
+      "pubDate": "2024-05-25T07:00:00.000Z",
+      "references": [
+        {
+          "title": "Der Dreißigjährige Krieg 1618-1648",
+          "author": "Johannes Arndt",
+          "publisher": "Reclam"
+        },
+        {
+          "title": "Mutter Courage und ihre Kinder",
+          "author": "Bertolt Brecht",
+          "publisher": "Suhrkamp"
+        },
+        {
+          "title": "Geschichte des Alltags des deutschen Volkes. Band 1. 1600-1650",
+          "author": "Jürgen Kuczynski",
+          "publisher": "Akademie-Verlag Berlin"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 250: Bidens Trump-Moment - die USA gegen chinesische E-Autos",
+      "href": "https://wohlstandfueralle.podigee.io/250-handelskrieg-usa-china",
+      "pubDate": "2024-05-22T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Section 301 of the Trade Act of 1974",
+          "author": "Congressional Research Service",
+          "publisher": "crsreports.congress.gov",
+          "href": "https://crsreports.congress.gov/product/pdf/IF/IF11346#:~:text=Section%20301%20provides%20a%20statutory,commerce"
+        },
+        {
+          "title": "China-E-Autos stauen sich in deutschen Häfen - was uns jetzt noch erwartet",
+          "author": "Christian Masengarb",
+          "publisher": "focus.de",
+          "href": "https://m.focus.de/finanzen/boerse/usa-erlassen-strafzoelle-china-e-autos-stauen-sich-in-deutschen-haefen-was-uns-jetzt-noch-erwartet_id_259948416.html"
+        },
+        {
+          "title": "China Tech Transfer Section 301 (Final) rev",
+          "author": "Office of the United States Trade Representative",
+          "publisher": "ustr.gov",
+          "href": "https://ustr.gov/sites/default/files/05.13.2024%20Four%20Year%20Review%20of%20China%20Tech%20Transfer%20Section%20301%20(Final)%20rev.pdf"
+        },
+        {
+          "title": "Nixon and the art of trade war",
+          "author": "Quinn Slobodian",
+          "publisher": "newstatesman.com",
+          "href": "https://www.newstatesman.com/ideas/2024/05/joe-biden-tariffs-nixon-art-trade-war"
+        }
+      ]
+    },
+    {
       "title": "Ep. 244: Ulrike, Maurice und die Vier-Tage-Woche",
       "href": "https://wohlstandfueralle.podigee.io/244-vier-tage-woche",
       "pubDate": "2024-04-10T04:00:00.000Z",
@@ -46,7 +479,7 @@
       ]
     },
     {
-      "title": "Ep. 245: Abschottung und Goldmark – wie die AfD Europa \"neu\" denkt",
+      "title": "Ep. 245: Abschottung und Goldmark - wie die AfD Europa \"neu\" denkt",
       "href": "https://wohlstandfueralle.podigee.io/245-afd-europa-programm",
       "pubDate": "2024-04-17T04:00:00.000Z",
       "references": [
@@ -59,7 +492,7 @@
       ]
     },
     {
-      "title": "Ep. 246: Peng, peng, peng – das CDU-Programm für Europa",
+      "title": "Ep. 246: Peng, peng, peng - das CDU-Programm für Europa",
       "href": "https://wohlstandfueralle.podigee.io/246-cdu-europa-programm",
       "pubDate": "2024-04-24T04:00:00.000Z",
       "references": [
@@ -78,7 +511,7 @@
       ]
     },
     {
-      "title": "Literatur #40: Kein Kitsch – Jane Austens VERSTAND UND GEFÜHL",
+      "title": "Literatur #40: Kein Kitsch - Jane Austens VERSTAND UND GEFÜHL",
       "href": "https://wohlstandfueralle.podigee.io/2040-wfa-literatur-jane-austen-verstand-und-gefuehl",
       "pubDate": "2024-04-27T07:00:00.000Z",
       "references": [
@@ -90,7 +523,7 @@
       ]
     },
     {
-      "title": "Ep. 248: Devisenhandel – der größte Finanzmarkt der Welt",
+      "title": "Ep. 248: Devisenhandel - der größte Finanzmarkt der Welt",
       "href": "https://wohlstandfueralle.podigee.io/248-devisen-maerkte",
       "pubDate": "2024-05-08T04:00:00.000Z",
       "references": [
@@ -1965,7 +2398,7 @@
       ]
     },
     {
-      "title": "Literatur #21: Thomas Mann – Königliche Hoheit",
+      "title": "Literatur #21: Thomas Mann - Königliche Hoheit",
       "href": "https://www.youtube.com/watch?v=pvNeqQSh5kY",
       "pubDate": "2022-09-24T17:10:09Z",
       "references": [
