@@ -3,6 +3,293 @@
   "link": "https://www.youtube.com/c/Wohlstandf%C3%BCrAlle/featured",
   "episodes": [
     {
+      "title": "Ep. 244: Ulrike, Maurice und die Vier-Tage-Woche",
+      "href": "https://wohlstandfueralle.podigee.io/244-vier-tage-woche",
+      "pubDate": "2024-04-10T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Vier-Tage-Woche für alle? Diese 4 Gründe sprechen dagegen",
+          "author": "Maurice Höfgen",
+          "publisher": "geldfuerdiewelt.de",
+          "href": "https://www.geldfuerdiewelt.de/p/vier-tage-woche-fur-alle-diese-4"
+        },
+        {
+          "title": "Ein ganzes Land in Geiselhaft",
+          "author": "Ulrike Herrmann",
+          "publisher": "taz.de",
+          "href": "https://taz.de/GDL-Streik-bei-der-Deutschen-Bahn/!5985436/"
+        },
+        {
+          "title": "Bloß nicht verlängern",
+          "author": "Ulrike Herrmann",
+          "publisher": "taz.de",
+          "href": "https://taz.de/Debatte-um-das-9-Euro-Ticket/!5864045/"
+        },
+        {
+          "title": "Die letzte männliche Bastion",
+          "author": "Ulrike Herrmann",
+          "publisher": "taz.de",
+          "href": "https://taz.de/!1380525/"
+        },
+        {
+          "title": "Jacobin-Podcast mit Ines Schwerdtner",
+          "author": "Ines Schwerdtner",
+          "publisher": "youtube.com",
+          "href": "https://www.youtube.com/watch?v=L87yXItriOs"
+        },
+        {
+          "title": "Die Gesamtdiagnose der Wirtschaftsinstitute",
+          "author": "Projektgruppe Gemeinschaftsdiagnose",
+          "publisher": "gemeinschaftsdiagnose.de",
+          "href": "https://gemeinschaftsdiagnose.de/"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 245: Abschottung und Goldmark – wie die AfD Europa \"neu\" denkt",
+      "href": "https://wohlstandfueralle.podigee.io/245-afd-europa-programm",
+      "pubDate": "2024-04-17T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Europa-Wahlprogramm 2024. Europa neu denken",
+          "author": "Alternative für Deutschland",
+          "publisher": "AfD",
+          "href": "https://www.afd.de/europawahlprogramm2024/"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 246: Peng, peng, peng – das CDU-Programm für Europa",
+      "href": "https://wohlstandfueralle.podigee.io/246-cdu-europa-programm",
+      "pubDate": "2024-04-24T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Das Programm der Union",
+          "author": "CDU",
+          "publisher": "europawahl.cdu.de",
+          "href": "https://www.europawahl.cdu.de/sites/www.europawahlprogramm.cdu.de/files/docs/europawahlprogramm-cdu-csu-2024_0.pdf"
+        },
+        {
+          "title": "Ursula von der Leyens Grundsatzrede zur Verteidigung",
+          "author": "Ursula von der Leyen",
+          "publisher": "ec.europa.eu",
+          "href": "https://ec.europa.eu/commission/presscorner/api/files/document/print/de/speech_23_6207/SPEECH_23_6207_DE.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #40: Kein Kitsch – Jane Austens VERSTAND UND GEFÜHL",
+      "href": "https://wohlstandfueralle.podigee.io/2040-wfa-literatur-jane-austen-verstand-und-gefuehl",
+      "pubDate": "2024-04-27T07:00:00.000Z",
+      "references": [
+        {
+          "title": "Verstand und Gefühl",
+          "author": "Jane Austen",
+          "publisher": "Insel"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 248: Devisenhandel – der größte Finanzmarkt der Welt",
+      "href": "https://wohlstandfueralle.podigee.io/248-devisen-maerkte",
+      "pubDate": "2024-05-08T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Nichts für alle. Wie Politik und Wirtschaft uns den Sozialstaat kündigen",
+          "author": "Patrick Schreiner",
+          "publisher": "Jacobin"
+        },
+        {
+          "title": "History of Foreign Exchange Markets",
+          "author": "Marcello de Cecco",
+          "publisher": "The New Palgrave Dictionary of Economics"
+        },
+        {
+          "title": "Devisenmarktinterventionen: Ein häufig genutztes und wirksames Instrument",
+          "author": "Lukas Menkhoff und Tobias Stöhr",
+          "publisher": "DIW",
+          "href": "https://www.diw.de/documents/publikationen/73/diw_01.c.557308.de/17-18-1.pdf"
+        },
+        {
+          "title": "Die 5,3-Billionen-Dollar-Wette",
+          "author": "Ulrike Herrmann",
+          "publisher": "taz",
+          "href": "https://taz.de/Kommentar-TTIP--Waehrungsspekulation/!5037339/"
+        },
+        {
+          "title": "Politische Ökonomie der Finanzmärkte",
+          "author": "Jörg Huffschmidt",
+          "publisher": "VSA",
+          "href": "https://www.vsa-verlag.de/uploads/media/VSA_Huffschmid_Politische_Oekonomie_der_Finanzmaerkte.pdf"
+        },
+        {
+          "title": "Chinas währungspolitische Offensive. Die Herausforderung der Internationalisierung und Digitalisierung des Renminbi",
+          "author": "Hanns Günther Hilpert",
+          "publisher": "SWP",
+          "href": "https://www.swp-berlin.org/publications/products/studien/2024S09_ChinasWaehrungsoffensive.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 247: Exportweltmeister! Eine deutsche Ideologie?",
+      "href": "https://wohlstandfueralle.podigee.io/247-exportweltmeister-1",
+      "pubDate": "2024-05-01T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Exportweltmeister. Geschichte einer deutschen Obsession",
+          "author": "Jan-Otmar Hesse",
+          "publisher": "Suhrkamp"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 249: Wie Deutschland zum Albtraum der Weltwirtschaft wurde",
+      "href": "https://wohlstandfueralle.podigee.io/249-exportweltmeister-2",
+      "pubDate": "2024-05-15T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Exportweltmeister. Geschichte einer deutschen Obsession",
+          "author": "Jan-Otmar Hesse",
+          "publisher": "Suhrkamp"
+        },
+        {
+          "title": "The German Undervaluation Regime under Bretton Woods How Germany Became the Nightmare of the World Economy",
+          "author": "Martin Höpner",
+          "publisher": "pure.mpg.de",
+          "href": "https://pure.mpg.de/rest/items/item_3025067_2/component/file_3025546/content"
+        }
+      ]
+    },
+    {
+      "href": "https://wohlstandfueralle.podigee.io/240-buchmarkt",
+      "title": "Ep. 240: Adorno, TikTok und der Buchmarkt",
+      "pubDate": "2024-03-13T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Dialektik der Aufklärung",
+          "author": "Max Horkheimer, Theodor W. Adorno",
+          "publisher": "Fischer"
+        },
+        {
+          "title": "BookTok Helped Book Sales Soar: How Long Will That Last?",
+          "author": "Jim Milliot",
+          "publisher": "publishersweekly.com",
+          "href": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/93014-booktok-helped-book-sales-soar-how-long-will-that-last.html"
+        },
+        {
+          "title": "Die offiziellen Zahlen für den Buchmarkt 2022 sind da",
+          "author": "Christina Schulte",
+          "publisher": "boersenblatt.net",
+          "href": "https://www.boersenblatt.net/news/boersenverein/die-offiziellen-zahlen-fuer-den-buchmarkt-2022-sind-da-291937"
+        },
+        {
+          "title": "Wie TikTok dem schrumpfenden Buchhandel hilft",
+          "author": "Jörg Tillmann Neuscheler, Dana Hajek",
+          "publisher": "faz.net",
+          "href": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/wie-tiktok-dem-schrumpfenden-buchhandel-hilft-19241767.html"
+        },
+        {
+          "title": "Frauen im Literaturbetrieb",
+          "author": "Martina Läubli",
+          "publisher": "nzz.ch",
+          "href": "https://www.nzz.ch/feuilleton/frauen-im-literaturbetrieb-ld.1814558"
+        },
+        {
+          "title": "TikTok, Universal Music Group Dispute",
+          "author": "Caroline Mimbs Nyce",
+          "publisher": "theatlantic.com",
+          "href": "https://www.theatlantic.com/technology/archive/2024/03/tiktok-universal-music-group-dispute/677616/"
+        },
+        {
+          "title": "Book Sales Statistics",
+          "author": "Dimitrije Curcic",
+          "publisher": "wordsrated.com",
+          "href": "https://wordsrated.com/book-sales-statistics/"
+        },
+        {
+          "title": "Books Market Analysis",
+          "author": "Grand View Research",
+          "publisher": "grandviewresearch.com",
+          "href": "https://www.grandviewresearch.com/industry-analysis/books-market"
+        }
+      ]
+    },
+    {
+      "href": "https://wohlstandfueralle.podigee.io/241-gruene-europaprogramm",
+      "title": "Ep. 241: Der grüne Opportunismus - nun auch für Europa!",
+      "pubDate": "2024-03-20T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Was uns schützt. Europawahlprogramm 2024",
+          "author": "Die Grünen",
+          "publisher": "gruene.de",
+          "href": "https://cms.gruene.de/uploads/assets/20240306_Reader_EU-Wahlprogramm2024_A4.pdf"
+        }
+      ]
+    },
+    {
+      "href": "https://wohlstandfueralle.podigee.io/242-kanonen-statt-butter",
+      "title": "Ep. 242: Kanonen statt Butter! Die verlogene Debatte zur Aufrüstung",
+      "pubDate": "2024-03-27T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Kampfjets statt Kitas?",
+          "author": "Max Krahé, Sara Schulte, Nils Kleimeier",
+          "publisher": "dezernatzukunft.org",
+          "href": "https://www.dezernatzukunft.org/kampfjets-statt-kitas/"
+        },
+        {
+          "title": "Grundzüge der Volkswirtschaftslehre",
+          "author": "Paul A. Samuelson, William D. Nordhaus",
+          "publisher": "Bund-Verlag"
+        },
+        {
+          "title": "Wer bezahlt für den Krieg, die Armen oder die Reichen?",
+          "author": "Mark Schieritz",
+          "publisher": "zeit.de",
+          "href": "https://www.zeit.de/wirtschaft/2024-03/aufruestung-bundeswehr-sozialausgaben-sparen-verteidigungspolitik"
+        }
+      ]
+    },
+    {
+      "href": "https://wohlstandfueralle.podigee.io/2039-american-psycho",
+      "title": "Literatur #39: Wieso AMERICAN PSYCHO nichts für Incels ist",
+      "pubDate": "2024-03-30T08:00:00.000Z",
+      "references": [
+        {
+          "title": "American Psycho",
+          "author": "Bret Easton Ellis",
+          "publisher": "Kiepenheuer & Witsch"
+        }
+      ]
+    },
+    {
+      "href": "https://wohlstandfueralle.podigee.io/243-linke-europaprogramm",
+      "title": "Ep. 243: Zwischen MMT und Utopie - das EU-Programm der Linkspartei",
+      "pubDate": "2024-04-03T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Wahlprogramm zur Europawahl",
+          "author": "Die Linke",
+          "publisher": "die-linke.de",
+          "href": "https://www.die-linke.de/europawahl/wahlprogramm-zur-europawahl/"
+        }
+      ]
+    },
+    {
+      "href": "https://wohlstandfueralle.podigee.io/239-europaprogramm-spd",
+      "title": "Ep. 239: Never change a losing team! Das SPD-Programm für Europa",
+      "pubDate": "2024-03-06T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Europaprogramm",
+          "author": "SPD",
+          "publisher": "spd.de",
+          "href": "https://www.spd.de/fileadmin/Dokumente/EuroDel/20240128_Europaprogramm.pdf"
+        }
+      ]
+    },
+    {
       "title": "Literatur #38: Ist MOMO antisemitisch?",
       "href": "https://www.youtube.com/watch?v=JvXTf7_GSBM",
       "pubDate": "2024-02-24T17:10:09Z",
