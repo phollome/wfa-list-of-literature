@@ -3,6 +3,603 @@
   "link": "https://www.youtube.com/c/Wohlstandf%C3%BCrAlle/featured",
   "episodes": [
     {
+      "title": "Ep. 278: Frankfurter Schule: Wir diskutieren über Herbert Marcuse!",
+      "href": "https://wohlstandfueralle.podigee.io/278-herbert-marcuse",
+      "pubDate": "2024-12-04T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Versuch über die Befreiung",
+          "author": "Herbert Marcuse",
+          "publisher": "zu Klampen Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 280: Das Comeback der Verelendung",
+      "href": "https://wohlstandfueralle.podigee.io/280-verelendungstheorie",
+      "pubDate": "2024-12-18T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Verelendungstheorie - die hilflose Kapitalismuskritik",
+          "author": "Wolf Wagner",
+          "publisher": "Fischer Taschenbuch"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 281: Max Horkheimer über Kapitalismus und Faschismus",
+      "href": "https://wohlstandfueralle.podigee.io/281-horkheimer-faschismus",
+      "pubDate": "2024-12-25T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Die Juden und Europa",
+          "author": "Max Horkheimer",
+          "publisher": "S. Fischer"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #48: Marc-Uwe Kling — QualityLand",
+      "href": "https://wohlstandfueralle.podigee.io/2048-literatur-48-marc-uwe-kling-qualityland",
+      "pubDate": "2024-12-21T08:00:00.000Z",
+      "references": [
+        {
+          "title": "QualityLand",
+          "author": "Marc-Uwe Kling",
+          "publisher": "Ullstein"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 279: Der CEO-Mord und das Gesundheitssystem der USA",
+      "href": "https://wohlstandfueralle.podigee.io/279-usa-gesundheitssystem",
+      "pubDate": "2024-12-11T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Delay, Deny, Defend: Why Insurance Companies Don't Pay Claims and What You Can Do About It",
+          "author": "Jay M. Feinman",
+          "publisher": "Delden Press"
+        },
+        {
+          "title": "Health Insurance",
+          "author": "Michael Morrisey",
+          "publisher": "account.ache.org",
+          "href": "https://account.ache.org/iweb/upload/Morrisey2253_Chapter_1-3b5f4e08.pdf"
+        },
+        {
+          "title": "US-Gesundheitssystem: Revolution oder Scheitern",
+          "author": "Nora Schmitt-Sausen",
+          "publisher": "aerzteblatt.de",
+          "href": "https://www.aerzteblatt.de/archiv/67199/US-Gesundheitssystem-Revolution-oder-Scheitern"
+        },
+        {
+          "title": "Ermordeter Konzernchef. Viele reagieren mit Häme auf das Attentat",
+          "author": "Julian Seiferth",
+          "publisher": "t-online.de",
+          "href": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100546836/unitedhealthcare-ceo-brian-thompson-in-new-york-erschossen-spott-im-netz.html"
+        }
+      ]
+    },
+    {
+      "title": "Literatur 47: Hans Fallada - Kleiner Mann - was nun?",
+      "href": "https://wohlstandfueralle.podigee.io/2047-hans-fallada-kleiner-mann-was-nun",
+      "pubDate": "2024-11-30T08:00:00.000Z",
+      "references": [
+        {
+          "title": "Jeder stirbt für sich allein",
+          "author": "Hans Fallada",
+          "publisher": "Aufbau-Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 275: Sollten Linke an der Börse investieren?",
+      "href": "https://wohlstandfueralle.podigee.io/275-boerse",
+      "pubDate": "2024-11-13T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Linke geht an die Börse",
+          "author": "Maurice Höfgen",
+          "publisher": "Freitag",
+          "href": "https://www.freitag.de/autoren/maurice-hoefgen/linke-geht-an-die-boerse"
+        },
+        {
+          "title": "Ökonom über ETFs: Früher oder später kommt die kalte Dusche",
+          "author": "Stephan Schulmeister",
+          "publisher": "Freitag",
+          "href": "https://www.freitag.de/autoren/pep/oekonom-ueber-etfs-frueher-oder-spaeter-kommt-die-kalte-dusche"
+        },
+        {
+          "title": "Ausschluss für Rüstung soll fallen",
+          "author": "Christiane Lang",
+          "publisher": "BVI",
+          "href": "https://www.bvi.de/positionen/nachgefragt/nachhaltigkeit/"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 277: Die Frau und der Realsozialismus",
+      "href": "https://wohlstandfueralle.podigee.io/277-frau-sozialismus",
+      "pubDate": "2024-11-27T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Woche um Woche. Frauen in der Sowjetunion",
+          "author": "Natalja Baranskaja",
+          "publisher": "Luchterhand"
+        },
+        {
+          "title": "Der Schwangerschaftsabbruch in der DDR. Eine kritische Auseinandersetzung mit den Fakten",
+          "author": "Jessica Bock",
+          "publisher": "bpb.de",
+          "href": "https://www.bpb.de/themen/deutschlandarchiv/542838/der-schwangerschaftsabbruch-in-der-ddr/"
+        },
+        {
+          "title": "Kitas und Kindererziehung in Ost und West",
+          "author": "Sabine Böttcher, Ronald Gebauer",
+          "publisher": "bpb.de",
+          "href": "https://www.bpb.de/themen/deutsche-einheit/lange-wege-der-deutschen-einheit/47313/kitas-und-kindererziehung-in-ost-und-west/"
+        },
+        {
+          "title": "Warum Frauen im Sozialismus besseren Sex haben",
+          "author": "Kristen R. Ghodsee",
+          "publisher": "Suhrkamp"
+        },
+        {
+          "title": "Aufbruch nach Utopia",
+          "author": "Stefan Wolle",
+          "publisher": "Ch. Links Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 276: Wieso das Verantwortungseigentum kein linkes Projekt ist!",
+      "href": "https://wohlstandfueralle.podigee.io/276-verantwortungseigentum",
+      "pubDate": "2024-11-20T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Der doppelte Bosch",
+          "author": "Stefan Scheytt, Kety Quadrino",
+          "publisher": "Hans Böckler Stiftung",
+          "href": "https://www.boeckler.de/de/magazin-mitbestimmung-2744-der-doppelte-bosch-11011.htm"
+        },
+        {
+          "title": "Verantwortungseigentum",
+          "author": "Lars Feld, Bruno Frey",
+          "publisher": "Welt.de",
+          "href": "https://www.welt.de/wirtschaft/article228655091/Verantwortungseigentum-Wertvoll-fuer-die-soziale-Marktwirtschaft.html"
+        },
+        {
+          "title": "Warum das Patagonia-Modell nicht auf Deutschland übertragbar ist",
+          "author": "Yvon Chouinard",
+          "publisher": "Capital.de",
+          "href": "https://www.capital.de/wirtschaft-politik/warum-das-patagonia-modell-nicht-auf-deutschland-uebertragbar-ist-32730830.html"
+        },
+        {
+          "title": "Juristen sehen im Europarecht keine Probleme für Verantwortungseigentum",
+          "author": "Corinna Budras",
+          "publisher": "faz.net",
+          "href": "https://www.faz.net/aktuell/wirtschaft/juristen-sehen-im-europarecht-keine-probleme-fuer-verantwortungseigentum-19789901.html"
+        },
+        {
+          "title": "Die neue Rechtsform hat vier fundamentale Konstruktionsfehler",
+          "author": "Barbara Weißenberger, Birgit Weitemeyer, Götz Wiese",
+          "publisher": "faz.net",
+          "href": "https://www.faz.net/aktuell/wirtschaft/die-neue-rechtsform-hat-vier-fundamentale-konstruktionsfehler-110016371.html"
+        },
+        {
+          "title": "Gutachten zur GmbH mit gebundenem Vermögen",
+          "author": "Wissenschaftlicher Beirat beim Bundesministerium der Finanzen",
+          "publisher": "Bundesfinanzministerium",
+          "href": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/Ministerium/Wissenschaftlicher-Beirat/Gutachten/gmbh-mit-gebundenem-vermoegen.pdf?__blob=publicationFile&v=2"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 274: VW-Krise, Lindner-Papier - ist Deutschlands Wohlstandsmodell am Ende?",
+      "href": "https://wohlstandfueralle.podigee.io/274-vw-krise",
+      "pubDate": "2024-11-06T05:00:00.000Z",
+      "references": [
+        {
+          "title": "Das Versagen der europäischen Autoindustrie",
+          "author": "Jörn Boewe, Johannes Schulten",
+          "publisher": "blätter.de",
+          "href": "https://www.blaetter.de/ausgabe/2024/september/das-versagen-der-europaeischen-autoindustrie"
+        },
+        {
+          "title": "Die VW-Party ist vorbei! Der Widerstand der Mitarbeiter schadet ihnen selbst",
+          "author": "Leon Berent",
+          "publisher": "stern.de",
+          "href": "https://www.stern.de/wirtschaft/vw--der-widerstand-der-mitarbeiter-schadet-ihnen-selbst-35179860.html"
+        },
+        {
+          "title": "Ifo-Präsident Fuest: \"Wenn VW zusammenbricht, wäre das eine Katastrophe\"",
+          "author": "Julian Olk",
+          "publisher": "handelsblatt.com",
+          "href": "https://www.handelsblatt.com/politik/deutschland/ifo-praesident-fuest-wenn-vw-zusammenbricht-waere-das-eine-katastrophe/100084536.html"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #46: Wolfgang rastet aus!",
+      "href": "https://wohlstandfueralle.podigee.io/2046-literatur-a-mans-job",
+      "pubDate": "2024-10-26T07:00:00.000Z",
+      "references": [
+        {
+          "title": "A Man's Job",
+          "author": "Edith Anderson",
+          "publisher": "Andere Bibliothek"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 271: Chinas Wirtschaft - zwischen 5-Jahres-Plan und Weltmarkt",
+      "href": "https://wohlstandfueralle.podigee.io/271-chinas-wirtschaft",
+      "pubDate": "2024-10-16T04:00:00.000Z",
+      "references": [
+        {
+          "title": "How China Works. An Introduction to China's State-led Economic Development",
+          "author": "Xiaohuan Lan",
+          "publisher": "Palgrave Macmillan",
+          "href": ""
+        },
+        {
+          "title": "Making Sense of China's Economy",
+          "author": "Tao Wang",
+          "publisher": "Routledge"
+        },
+        {
+          "title": "Die Reform des Chinesischen Fiskalsystems",
+          "author": "Gang Li",
+          "publisher": "db-thueringen.de",
+          "href": "https://www.db-thueringen.de/servlets/MCRFileNodeServlet/dbt_derivate_00031761/Li_Dissertation.pdf"
+        },
+        {
+          "title": " Der Traum vom Parteistaatskapitalismus",
+          "author": "Philipp Köncke",
+          "publisher": "akweb.de",
+          "href": "https://www.akweb.de/politik/china-kapitalismus-staat-partei-oekonomie-alternatives-wirtschaftsmodell/"
+        },
+        {
+          "title": "The emissions path for China that will shape our planetary future.",
+          "author": "Adam Tooze",
+          "publisher": "substack.com",
+          "href": "https://adamtooze.substack.com/p/chartbook-324-ndc-30-the-emissions"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 272: Klima-Präsident Biden? Wie die USA zum Öl-Weltmeister wurden",
+      "href": "https://wohlstandfueralle.podigee.io/272-klima-usa-oel",
+      "pubDate": "2024-10-23T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Big Oil boomed under Biden. So why does it hate him?",
+          "author": "Financial Times",
+          "publisher": "Financial Times",
+          "href": "https://www.ft.com/content/d64b1fc1-59b6-4fbd-8a88-8d786e4df474"
+        },
+        {
+          "title": "Why the U.S. Is Pumping More Oil Than Any Other Country in History",
+          "author": "Rogé Karma",
+          "publisher": "The Atlantic",
+          "href": "https://www.theatlantic.com/ideas/archive/2023/12/us-producing-more-oil-climate-change/676893/"
+        },
+        {
+          "title": "Joe Biden: Master Oil Trader",
+          "author": "The Economist",
+          "publisher": "The Economist",
+          "href": "https://www.economist.com/finance-and-economics/2024/05/16/joe-biden-master-oil-trader"
+        },
+        {
+          "title": "Forscher warnen: Erdgas ist ein Klimaschädling genau wie",
+          "author": "Kai Rüsberg",
+          "publisher": "Deutschlandfunk",
+          "href": "https://www.deutschlandfunk.de/forscher-warnen-erdgas-ist-ein-klimaschaedling-genau-wie-100.html"
+        },
+        {
+          "title": "Methan-Freisetzung in den USA höher als angenommen: Forschende warnen",
+          "author": "RND",
+          "publisher": "RND",
+          "href": "https://www.rnd.de/wissen/methan-freisetzung-in-den-usa-hoeher-als-angenommen-forschende-warnen-PXGC6YSJGVFY7DJTH6Q26R43VU.html"
+        },
+        {
+          "title": "Methan-Belastung: Eine Analyse",
+          "author": "Volker Quaschnig",
+          "publisher": "Volker Quaschnig",
+          "href": "https://www.volker-quaschning.de/datserv/CO2-spez/index.php"
+        },
+        {
+          "title": "Fracking",
+          "author": "Internationale Politik",
+          "publisher": "Internationale Politik",
+          "href": "https://internationalepolitik.de/system/files/pdf_issues/ip_02-2013_gesamt.pdf"
+        },
+        {
+          "title": "Why Harris and Trump are debating the F-word",
+          "author": "Ben Lefebvre",
+          "publisher": "Politico",
+          "href": "https://www.politico.com/news/2024/09/09/trump-harris-fracking-feud-explained-00177583"
+        },
+        {
+          "title": "Oil and Gas Communities as a Blind Spot in America's Climate and Economic Policies",
+          "author": "Noah Kaufman",
+          "publisher": "The Conversation",
+          "href": "https://theconversation.com/oil-and-gas-communities-are-a-blind-spot-in-americas-climate-and-economic-policies-237947"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 269: Wie Dating und Heiratsmarkt heute funktionieren",
+      "href": "https://wohlstandfueralle.podigee.io/269-dating-heiraten",
+      "pubDate": "2024-10-02T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Male and Female Marriage returns to Schooling",
+          "author": "Gustaf Guze",
+          "publisher": "JSTOR",
+          "href": "https://www.jstor.org/stable/24517893"
+        },
+        {
+          "title": "Geschlechterproportion im Alter 15 bis 49 Jahre in Deutschland (Kreisebene, 2022)",
+          "author": "Bundesinstitut für Bevölkerungsforschung (BIB)",
+          "publisher": "bpb.de",
+          "href": "https://www.bib.bund.de/DE/Fakten/Fakt/B94-Geschlechterproportion-Alter-15-49-Kreise.html#:~:text=In%20der%20Mehrzahl%20der%20ostdeutschen,110%20M%C3%A4nner%20auf%20100%20Frauen."
+        },
+        {
+          "title": "Ehe-Trend: Sozialer Aufstieg durch Heirat wird schwieriger",
+          "author": "Benjamin Knaack",
+          "publisher": "Der Spiegel",
+          "href": "https://www.spiegel.de/wirtschaft/soziales/heiratsmarkt-hoehergebildete-frauen-und-maenner-heiraten-untereinander-a-1016268.html"
+        },
+        {
+          "title": " Elitenforscher über Chancen von Frauen: \"Heiraten ist keine Lebensstrategie\"",
+          "author": "Michael Hartmann",
+          "publisher": "taz.de",
+          "href": "https://taz.de/!91767/"
+        },
+        {
+          "title": "Brautpreis",
+          "author": "Valerie M. Hudson, Hilary Matfess",
+          "publisher": "JSTOR",
+          "href": "https://www.jstor.org/stable/26777808"
+        },
+        {
+          "title": "Marriage Market Sorting in the U.S.",
+          "author": "Anton Cheremukhin, Paulina Restrepo-Echavarria, Antonella Tutino",
+          "publisher": "Federal Reserve Bank of St. Louis",
+          "href": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2023/2023-023.pdf"
+        },
+        {
+          "title": "Monetäre Aspekte bei GenZ und Millennials",
+          "author": "Northwestern Mutual",
+          "publisher": "northwesternmutual.com",
+          "href": "https://news.northwesternmutual.com/planning-and-progress-study-2023"
+        },
+        {
+          "title": "Zahlen zu Studienabschlüssen bei Frauen und Männern",
+          "author": "Bundeszentrale für politische Bildung (bpb)",
+          "publisher": "bpb.de",
+          "href": "https://www.bpb.de/kurz-knapp/zahlen-und-fakten/europa/299805/hochschulabschluss/"
+        },
+        {
+          "title": "Abgehängte Männer",
+          "author": "John Burn-Murdoch",
+          "publisher": "Financial Times",
+          "href": "https://www.ft.com/content/17606f25-1d03-4f37-b7f4-f39989af9bde"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 270: Quandt, Klatten & Co - tragen Unternehmer wirklich Verantwortung?",
+      "href": "https://wohlstandfueralle.podigee.io/270-verantwortung",
+      "pubDate": "2024-10-09T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Das Interview von Susanne Klatten und Stefan Quandt",
+          "author": "Dietmar Student, Martin Noé",
+          "publisher": "Manager-Magazin",
+          "href": "https://www.manager-magazin.de/unternehmen/susanne-klatten-stefan-quandt-erstes-gemeinsames-interview-a-00000000-0002-0001-0000-000164471680"
+        },
+        {
+          "title": "The Social Responsibility of Business Is to Increase Its Profits",
+          "author": "Milton Friedman",
+          "publisher": "The New York Times",
+          "href": "https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html"
+        }
+      ]
+    },
+    {
+      "title": "Literatur #45: Theodor Fontane - Frau Jenny Treibel",
+      "href": "https://wohlstandfueralle.podigee.io/2045-literatur-45-fontane",
+      "pubDate": "2024-09-28T07:00:00.000Z",
+      "references": [
+        {
+          "title": "Frau Jenny Treibel oder \"Wo sich Herz zum Herzen find't\"",
+          "author": "Theodor Fontane",
+          "publisher": "Aufbau"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 268: Dollarimperialismus - wie die USA die Weltwirtschaft beherrschen",
+      "href": "https://wohlstandfueralle.podigee.io/268-imperialismus-2",
+      "pubDate": "2024-09-25T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Krieg und Frieden. Politische Ökonomie des Weltfriedens",
+          "author": "Karl Held, Theo Ebel",
+          "publisher": "Suhrkamp"
+        },
+        {
+          "title": "The Inherent Hierarchy of Money",
+          "author": "Perry Mehrling",
+          "publisher": "bu.edu",
+          "href": "https://sites.bu.edu/perry/files/2019/04/Mehrling_P_FESeminar_Sp12-02.pdf"
+        },
+        {
+          "title": "Das 'exorbitante Privileg' des US-Dollars",
+          "author": "Werner Plumpe",
+          "publisher": "wiwo.de",
+          "href": "https://www.wiwo.de/politik/deutschland/wiwo-history-das-exorbitante-privileg-des-us-dollars/29164138.html"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 267: Wieso Lenins Imperialismus-Theorie falsch ist",
+      "href": "https://wohlstandfueralle.podigee.io/267-imperialismus-1",
+      "pubDate": "2024-09-18T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Krieg und Frieden. Politische Ökonomie des Weltfriedens",
+          "author": "Karl Held, Theo Ebel",
+          "publisher": "Suhrkamp"
+        },
+        {
+          "title": "Der erste Weltkrieg. Eine kurze Geschichte",
+          "author": "Gerhard Henke-Bockschatz",
+          "publisher": "Reclam"
+        },
+        {
+          "title": "Der Imperialismus als höchstes Stadium des Kapitalismus. Gemeinverständlicher Abriss in Lenin-Werke, Band 22, S. 189-309",
+          "author": "Wladimir Iljitsch Lenin",
+          "publisher": "Dietz Verlag"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 266: Ausverkauf der Ukraine - was nach dem Krieg droht",
+      "href": "https://wohlstandfueralle.podigee.io/266-ausverkauf-der-ukraine",
+      "pubDate": "2024-09-11T04:00:00.000Z",
+      "references": [
+        {
+          "title": "Die Ukraine als neoliberales Musterland",
+          "author": "Anna Jikhareva",
+          "publisher": "bpb",
+          "href": "https://www.bpb.de/themen/wirtschaft/europa-wirtschaft/543139/die-ukraine-als-neoliberales-musterland/"
+        },
+        {
+          "title": "Die Ukraine im Ausverkauf",
+          "author": "Julien Niemann",
+          "publisher": "Makroskop",
+          "href": "https://makroskop.eu/26-2024/die-ukraine-im-ausverkauf/"
+        },
+        {
+          "title": "Takeover of Ukrainian Agricultural Land",
+          "author": "Frédéric Mousseau, Eve Devillers",
+          "publisher": "Oakland Institute",
+          "href": "https://www.oaklandinstitute.org/sites/oaklandinstitute.org/files/takeover-ukraine-agricultural-land.pdf"
+        },
+        {
+          "title": "Ukraine Braces for IMF Pressure to Devalue Currency, Cut Rates",
+          "author": "Volodymyr Verbianyi",
+          "publisher": "Bloomberg",
+          "href": "https://www.bloomberg.com/news/articles/2024-09-04/ukraine-braces-for-imf-pressure-to-devalue-currency-cut-rates"
+        },
+        {
+          "title": "Ukraine's Future Competitiveness: Directions for Structural Shifts in Investment and Trade",
+          "author": "Miriam Kosmehl",
+          "publisher": "Bertelsmann Stiftung",
+          "href": "https://www.bertelsmann-stiftung.de/en/our-projects/sovereign-europe/project-news/ukraines-future-competitiveness-directions-for-structural-shifts-in-investment-and-trade"
+        },
+        {
+          "title": "Ukraine: BlackRock Will Sein Geld Zurück, Oligarchen profitieren Von Westlicher Hilfe",
+          "author": "Lucas Zeise",
+          "publisher": "Berliner Zeitung",
+          "href": "https://www.berliner-zeitung.de/politik-gesellschaft/geopolitik/ukraine-blackrock-will-sein-geld-zurueck-oligarchen-profitieren-von-westlicher-hilfe-li.2226847"
+        },
+        {
+          "title": "Kritik an Schulden-Deal mit BlackRock und Co. wird Armut weiter verschärfen",
+          "author": "Lucas Zeise",
+          "publisher": "Berliner Zeitung",
+          "href": "https://www.berliner-zeitung.de/politik-gesellschaft/geopolitik/ukraine-kritik-an-schulden-deal-mit-blackrock-und-co-wird-armut-weiter-verschaerfen-li.2238117"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 265: Die Karriere - und wieso sie immer seltener wird",
+      "href": "https://wohlstandfueralle.podigee.io/265-karriere",
+      "pubDate": "2024-09-04T04:00:00.000Z",
+      "references": [
+        {
+          "title": "DIW-Wochenbericht 20/2018",
+          "author": "DIW",
+          "publisher": "DIW",
+          "href": "https://www.diw.de/documents/publikationen/73/diw_01.c.584320.de/18-20-1.pdf"
+        },
+        {
+          "title": "Europäische Revolutionen. 1789 bis 1848",
+          "author": "Eric Hobsbawm",
+          "publisher": "Wissenschaftliche Buchgesellschaft"
+        },
+        {
+          "title": "Why the higher paid should work longer than the rest",
+          "author": "Simon Kuper",
+          "publisher": "Financial Times",
+          "href": "https://www.ft.com/content/b51fb31e-add8-4492-9792-50873d59f8df"
+        },
+        {
+          "title": "Handwerk, Zünfte und Gewerbe. Eine Wirtschaftsgeschichte 800-1800",
+          "author": "Knut Schulz",
+          "publisher": "Wissenschaftliche Buchgesellschaft"
+        }
+      ]
+    },
+    {
+      "title": "Ep. 264: Die Rezession, die keiner wahrhaben will",
+      "href": "https://wohlstandfueralle.podigee.io/264-rezession",
+      "pubDate": "2024-08-28T04:00:00.000Z",
+      "references": [
+        {
+          "title": " Hallo, aufwachen! Es ist Rezession!",
+          "author": "Heiner Flassbeck",
+          "publisher": "Telepolis",
+          "href": "https://www.telepolis.de/features/Hallo-aufwachen-Es-ist-Rezession-9818341.html"
+        },
+        {
+          "title": "Sahm-Regel für die deutsche Schuldenbremse",
+          "author": "Andre Kühnlenz",
+          "publisher": "Makronom",
+          "href": "https://makronom.de/eine-sahm-regel-fuer-die-deutsche-schuldenbremse-47110"
+        },
+        {
+          "title": "Direktinvestitionen: Hohe Abflüsse deuten auf Deindustrialisierung hin",
+          "author": "Christian Rusche",
+          "publisher": "IW Köln",
+          "href": "https://www.iwkoeln.de/presse/pressemitteilungen/christian-rusche-hohe-abfluesse-deuten-auf-deindustrialisierung-hin.html"
+        },
+        {
+          "title": "Konjunktur: Hat in den USA eine Rezession begonnen? Was dieser Indikator verrät",
+          "author": "Timm Seckel",
+          "publisher": "Handelsblatt",
+          "href": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-hat-in-den-usa-eine-rezession-begonnen-was-dieser-indikator-verraet/100057452.html"
+        },
+        {
+          "title": "Korken auf den Wogen",
+          "author": "Hans-Werner Sinn",
+          "publisher": "hanswernersinn.de",
+          "href": "https://www.hanswernersinn.de/de/medienecho_8655875_ifostimme-wiwo-05-01-09"
+        },
+        {
+          "title": "Europas wirtschaftliches Wachstum ist extrem fragil",
+          "author": "The Economist",
+          "publisher": "The Economist",
+          "href": "https://www.economist.com/finance-and-economics/2024/08/15/europes-economic-growth-is-extremely-fragile"
+        },
+        {
+          "title": "Kann irgendetwas Deutschland aus seinem wirtschaftlichen Schlummer erwecken?",
+          "author": "The Economist",
+          "publisher": "The Economist",
+          "href": "https://www.economist.com/europe/2024/08/08/can-anything-rouse-germany-from-its-economic-slumber"
+        },
+        {
+          "title": "Germany's economy: down but not quite out ",
+          "author": "Moritz Kraemer",
+          "publisher": "Financial Times",
+          "href": "https://www-ft-com.ezp-prod1.hul.harvard.edu/content/9361356c-5c53-4268-ac2c-3e16d7c6d818"
+        }
+      ]
+    },
+    {
       "title": "Literatur #43: Ein wenig Leben (Hanya Yanagihara)",
       "href": "https://wohlstandfueralle.podigee.io/2043-literatur-43-ein-wenig-leben",
       "pubDate": "2024-07-27T07:00:00.000Z",
